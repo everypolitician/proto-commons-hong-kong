@@ -1,14 +1,318 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:zh-hk": "李慧琼",
+        "lang:zh": "李慧琼",
+        "lang:en": "Starry Lee"
+      },
+      "id": "Q1548856",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1548856"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/LeeWaiKingStarry"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "梁君彥",
+        "lang:zh": "梁君彥",
+        "lang:en": "Andrew Leung"
+      },
+      "id": "Q4757753",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4757753"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "涂謹申",
+        "lang:zh": "涂謹申",
+        "lang:en": "James To"
+      },
+      "id": "Q6144316",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6144316"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ToKunSun"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "陳淑莊",
+        "lang:zh": "陳淑莊",
+        "lang:en": "Tanya Chan"
+      },
+      "id": "Q6588095",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6588095"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "朱凱迪",
+        "lang:en": "Eddie Chu Hoi-dick"
+      },
+      "id": "Q7227847",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7227847"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chuhoidick"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "區諾軒",
+        "lang:en": "Au Nok-hin"
+      },
+      "id": "Q9114735",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9114735"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/nokhinau"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:zh-hk": "香港立法會",
+        "lang:zh": "香港立法會",
+        "lang:en": "Legislative Council of Hong Kong"
+      },
+      "id": "Q19208",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19208"
+        }
+      ],
+      "area_id": "Q8646",
+      "seat_counts": {
+        "Q27908372": "70"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主黨",
+        "lang:zh": "民主黨",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q21892",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21892"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "公民黨",
+        "lang:zh": "公民黨",
+        "lang:en": "Civic Party"
+      },
+      "id": "Q23055",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23055"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "香港經濟民生聯盟",
+        "lang:zh": "香港經濟民生聯盟",
+        "lang:en": "Business and Professionals Alliance for Hong Kong"
+      },
+      "id": "Q2914027",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2914027"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1548856-9b320169-4376-ee69-411c-4beb34abd21d",
+      "person_id": "Q1548856",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q19208",
+      "area_id": "Q5283291",
+      "start_date": "2016-10-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:zh-hk": "立法會議成員",
+        "lang:zh": "立法議會議員",
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q27908372",
+      "role": {
+        "lang:zh-hk": "立法會議員",
+        "lang:zh": "香港立法會議員",
+        "lang:en": "member of the Legislative Council of Hong Kong"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4757753-67541c81-45d9-2157-49c0-03d7edd4a6ff",
+      "person_id": "Q4757753",
+      "on_behalf_of_id": "Q2914027",
+      "organization_id": "Q19208",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:zh-hk": "立法會議成員",
+        "lang:zh": "立法議會議員",
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q27908372",
+      "role": {
+        "lang:zh-hk": "立法會議員",
+        "lang:zh": "香港立法會議員",
+        "lang:en": "member of the Legislative Council of Hong Kong"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6144316-5b64bc5d-49f1-6865-ddde-7fe42fc87043",
+      "person_id": "Q6144316",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q19208",
+      "area_id": "Q5283291",
+      "start_date": "2016-10-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:zh-hk": "立法會議成員",
+        "lang:zh": "立法議會議員",
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q27908372",
+      "role": {
+        "lang:zh-hk": "立法會議員",
+        "lang:zh": "香港立法會議員",
+        "lang:en": "member of the Legislative Council of Hong Kong"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6588095-5f9ed957-4f32-1347-0f73-e78ec49014de",
+      "person_id": "Q6588095",
+      "on_behalf_of_id": "Q23055",
+      "organization_id": "Q19208",
+      "area_id": "Q3248921",
+      "start_date": "2016-10-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:zh-hk": "立法會議成員",
+        "lang:zh": "立法議會議員",
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q27908372",
+      "role": {
+        "lang:zh-hk": "立法會議員",
+        "lang:zh": "香港立法會議員",
+        "lang:en": "member of the Legislative Council of Hong Kong"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7227847-77de8c9e-47cd-2ce6-f5bd-793ef7a3a13e",
+      "person_id": "Q7227847",
+      "organization_id": "Q19208",
+      "area_id": "Q1099862",
+      "start_date": "2016-10-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:zh-hk": "立法會議成員",
+        "lang:zh": "立法議會議員",
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q27908372",
+      "role": {
+        "lang:zh-hk": "立法會議員",
+        "lang:zh": "香港立法會議員",
+        "lang:en": "member of the Legislative Council of Hong Kong"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9114735-b964fedf-4545-c19d-ef53-bad53b14eece",
+      "person_id": "Q9114735",
+      "organization_id": "Q19208",
+      "area_id": "Q3248921",
+      "start_date": "2018-03-21",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:zh-hk": "立法會議成員",
+        "lang:zh": "立法議會議員",
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q27908372",
+      "role": {
+        "lang:zh-hk": "立法會議員",
+        "lang:zh": "香港立法會議員",
+        "lang:en": "member of the Legislative Council of Hong Kong"
+      }
+    }
   ]
 }
