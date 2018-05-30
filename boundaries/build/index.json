@@ -26,5 +26,329 @@
       "lang:zh": "NAME",
       "lang:en": "NAME_EN"
     }
+  },
+{
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of central and western district",
+        "position_item_id": "Q54478776"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:central-and-western",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of wan chai district",
+        "position_item_id": "Q54478875"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:wan-chai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of eastern district",
+        "position_item_id": "Q54479070"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:eastern",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of southern district",
+        "position_item_id": "Q54479040"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:southern",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of yau tsim mong district",
+        "position_item_id": "Q54478722"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:yau-tsim-mong",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of sham shui po district",
+        "position_item_id": "Q54478982"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:sham-shui-po",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of kowloon city district",
+        "position_item_id": "Q54478707"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:kowloon-city",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of wong tai sin district",
+        "position_item_id": "Q54478811"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:wong-tai-sin",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of kwun tong district",
+        "position_item_id": "Q54478949"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:kwun-tong",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of tsuen wan district",
+        "position_item_id": "Q54478845"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:tsuen-wan",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of tuen mun district",
+        "position_item_id": "Q54479158"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:tuen-mun",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of yuen long district",
+        "position_item_id": "Q54478750"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:yuen-long",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of north district",
+        "position_item_id": "Q54479126"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:north",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of tai po district",
+        "position_item_id": "Q54479094"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:tai-po",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of sai kung district",
+        "position_item_id": "Q54479009"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:sai-kung",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of sha tin district",
+        "position_item_id": "Q54478911"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:sha-tin",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of kwai tsing district",
+        "position_item_id": "Q54479189"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:kwai-tsing",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "districts",
+    "area_type_wikidata_item_id": "Q50256",
+    "associations": [
+      {
+        "comment": "district officer of islands district",
+        "position_item_id": "Q54479223"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "District"
+    },
+    "filter": {
+      "match": "country:hk/district:islands",
+      "column": "MS_FB"
+    }
   }
 ]
