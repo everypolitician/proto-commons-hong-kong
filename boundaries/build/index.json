@@ -12,5 +12,19 @@
       "lang:zh": "NAME",
       "lang:en": "NAME_EN"
     }
+  },
+  {
+    "directory": "legislative-council-constituencies",
+    "area_type_wikidata_item_id": "Q2973947",
+    "associations": [
+      {
+        "comment": "member of the Legislative Council of Hong Kong",
+        "position_item_id": "Q27908372"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "NAME_EN"
+    }
   }
 ]
