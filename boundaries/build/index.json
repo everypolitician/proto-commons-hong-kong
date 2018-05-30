@@ -1,3 +1,16 @@
 [
-
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q779415",
+    "associations": [
+      {
+        "comment": "Chief Executive of Hong Kong",
+        "position_item_id": "Q2741486"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "NAME_EN"
+    }
+  }
 ]
