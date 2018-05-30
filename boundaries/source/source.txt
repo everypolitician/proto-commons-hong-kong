@@ -20,3 +20,13 @@ hksar_18_district_boundary
 
 	With additional information available:
 		https://data.gov.hk/en/terms-and-conditions
+
+
+GIH3_DC_2015_POLY
+	Shapefile downloaded from
+		https://accessinfo.hk/zh_HK/request/8/response/55/attach/4/DC%202015%20poly%20Shapefile.zip?cookie_passthrough=1
+	Associated with
+		https://accessinfo.hk/en/request/shapefile_for_2015_district_coun#incoming-35
+	Licence permitting outlined in
+		boundaries/source/LM 42 to REO CR 14 42.pdf
+
