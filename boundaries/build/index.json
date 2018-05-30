@@ -350,5 +350,329 @@
       "match": "country:hk/district:islands",
       "column": "MS_FB"
     }
+  },
+    {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54065131",
+    "associations": [
+      {
+        "comment": "sai kung district councilor",
+        "position_item_id": "Q53914586"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:sai-kung",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54064971",
+    "associations": [
+      {
+        "comment": "kowloon city district councilor",
+        "position_item_id": "Q53913696"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:kowloon-city",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54064884",
+    "associations": [
+      {
+        "comment": "yau tsim mong district councilor",
+        "position_item_id": "Q53914332"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:yau-tsim-mong",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54065034",
+    "associations": [
+      {
+        "comment": "kwun tong district councilor",
+        "position_item_id": "Q53914657"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:kwun-tong",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54065003",
+    "associations": [
+      {
+        "comment": "southern district councilor",
+        "position_item_id": "Q53914186"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:southern",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54065060",
+    "associations": [
+      {
+        "comment": "eastern district councilor",
+        "position_item_id": "Q53914229"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:eastern",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54065243",
+    "associations": [
+      {
+        "comment": "islands district councilor",
+        "position_item_id": "Q53914994"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:islands",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54064403",
+    "associations": [
+      {
+        "comment": "wan chai district councilor",
+        "position_item_id": "Q53914433"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:wan-chai",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54065171",
+    "associations": [
+      {
+        "comment": "central and western district councilor",
+        "position_item_id": "Q53913929"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:central-and-western",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54065094",
+    "associations": [
+      {
+        "comment": "sham shui po district councilor",
+        "position_item_id": "Q53915061"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:sham-shui-po",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54064774",
+    "associations": [
+      {
+        "comment": "yuen long district councilor",
+        "position_item_id": "Q53914827"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:yuen-long",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54065205",
+    "associations": [
+      {
+        "comment": "tai po district councilor",
+        "position_item_id": "Q53914098"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:tai-po",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54064842",
+    "associations": [
+      {
+        "comment": "north district councilor",
+        "position_item_id": "Q53914891"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:north",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54064812",
+    "associations": [
+      {
+        "comment": "wong tai sin district councilor",
+        "position_item_id": "Q53913812"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:wong-tai-sin",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54064941",
+    "associations": [
+      {
+        "comment": "kwai tsing district councilor",
+        "position_item_id": "Q53914373"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:kwai-tsing",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54064913",
+    "associations": [
+      {
+        "comment": "sha tin district councilor",
+        "position_item_id": "Q53914481"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:sha-tin",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54065277",
+    "associations": [
+      {
+        "comment": "tsuen wan district councilor",
+        "position_item_id": "Q53914050"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:tsuen-wan",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "district-constituencies",
+    "area_type_wikidata_item_id": "Q54064541",
+    "associations": [
+      {
+        "comment": "tuen mun district councilor",
+        "position_item_id": "Q53914946"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "CNAME",
+      "lang:en": "ENAME"
+    },
+    "filter": {
+      "match": "country:hk/district:tuen-mun",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
