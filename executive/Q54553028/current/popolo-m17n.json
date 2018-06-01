@@ -1,14 +1,58 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:zh": "袁嘉諾",
+        "lang:en": "Enoch Yuen"
+      },
+      "id": "Q54542209",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54542209"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:zh": "元朗區地區管理委員會",
+        "lang:en": "Yuen Long District District Management Committees"
+      },
+      "id": "Q54553028",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54553028"
+        }
+      ],
+      "area_id": "Q871442"
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54542209-d2247e5a-4f89-df5a-9801-b7925fa7f3e0",
+      "person_id": "Q54542209",
+      "organization_id": "Q54553028",
+      "area_id": "Q871442",
+      "role_superclass_code": "Q54478750",
+      "role_superclass": {
+        "lang:zh": "元朗區民政事務專員",
+        "lang:en": "district officer of Yuen Long District"
+      },
+      "role_code": "Q54478750",
+      "role": {
+        "lang:zh": "元朗區民政事務專員",
+        "lang:en": "district officer of Yuen Long District"
+      }
+    }
   ]
 }

@@ -1,9 +1,43 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:zh-hk": "林鄭月娥",
+        "lang:zh": "林鄭月娥",
+        "lang:en": "Carrie Lam"
+      },
+      "id": "Q19217",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19217"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/carrielam.hksar"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:zh-hk": "香港特別行政區政府",
+        "lang:zh": "香港特別行政區政府",
+        "lang:en": "Government of Hong Kong"
+      },
+      "id": "Q15164",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15164"
+        }
+      ],
+      "area_id": "Q8646"
+    }
   ],
   "areas": [
     {
@@ -34,6 +68,24 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19217-bbf76082-46d2-ebdf-546c-a45559780c66",
+      "person_id": "Q19217",
+      "organization_id": "Q15164",
+      "area_id": "Q8646",
+      "start_date": "2017-07-01",
+      "role_superclass_code": "Q2741486",
+      "role_superclass": {
+        "lang:zh-hk": "香港特別行政區行政長官",
+        "lang:zh": "香港特別行政區行政長官",
+        "lang:en": "Chief Executive of Hong Kong"
+      },
+      "role_code": "Q2741486",
+      "role": {
+        "lang:zh-hk": "香港特別行政區行政長官",
+        "lang:zh": "香港特別行政區行政長官",
+        "lang:en": "Chief Executive of Hong Kong"
+      }
+    }
   ]
 }

@@ -1,14 +1,58 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:zh": "陳婉雯",
+        "lang:en": "Ms Chan Yuen Man Amy"
+      },
+      "id": "Q54542000",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54542000"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:zh": "沙田區地區管理委員會",
+        "lang:en": "Sha Tin District District Management Committees"
+      },
+      "id": "Q54553008",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54553008"
+        }
+      ],
+      "area_id": "Q15019"
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54542000-7cf7e5ce-4832-dcae-9edf-28901d92b253",
+      "person_id": "Q54542000",
+      "organization_id": "Q54553008",
+      "area_id": "Q15019",
+      "role_superclass_code": "Q54478911",
+      "role_superclass": {
+        "lang:zh": "沙田區民政事務專員",
+        "lang:en": "district officer of Sha Tin District"
+      },
+      "role_code": "Q54478911",
+      "role": {
+        "lang:zh": "沙田區民政事務專員",
+        "lang:en": "district officer of Sha Tin District"
+      }
+    }
   ]
 }

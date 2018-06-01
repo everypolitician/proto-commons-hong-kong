@@ -1,5 +1,11 @@
 WARNING: the district 區議會（第二） (Q5283291) wasn't found in the boundary data for position 立法會議員 (Q27908372)
 WARNING: the district 區議會（第二） (Q5283291) wasn't found in the boundary data for position 立法會議員 (Q27908372)
+WARNING: Position 油尖旺區議員 (Q53914332) not in boundary associated_wikidata_positions
+WARNING: the district 油尖旺區富柏區議員選區 (Q54074990) wasn't found in the boundary data for position 油尖旺區議員 (Q53914332)
+WARNING: the district 油尖旺區油麻地南區議員選區 (Q54074773) wasn't found in the boundary data for position 油尖旺區議員 (Q53914332)
+WARNING: the district 油尖旺區尖東及京士柏區議員選區 (Q54074907) wasn't found in the boundary data for position 油尖旺區議員 (Q53914332)
+WARNING: the district 油尖旺區奧運區議員選區 (Q54075022) wasn't found in the boundary data for position 油尖旺區議員 (Q53914332)
+WARNING: the district 油尖旺區旺角東區議員選區 (Q54074794) wasn't found in the boundary data for position 油尖旺區議員 (Q53914332)
 WARNING: Position 中西區議員 (Q53913929) not in boundary associated_wikidata_positions
 WARNING: the district 中西區中環區議員選區 (Q54086345) wasn't found in the boundary data for position 中西區議員 (Q53913929)
 WARNING: the district 中西區上環區議員選區 (Q54086364) wasn't found in the boundary data for position 中西區議員 (Q53913929)
@@ -12,12 +18,48 @@ WARNING: the district 東區鯉景灣區議員選區 (Q54085820) wasn't found in
 WARNING: the district 東區欣藍區議員選區 (Q54086036) wasn't found in the boundary data for position 東區議員 (Q53914229)
 WARNING: the district 東區下耀東區議員選區 (Q54086146) wasn't found in the boundary data for position 東區議員 (Q53914229)
 WARNING: the district 東區小西灣區議員選區 (Q54086198) wasn't found in the boundary data for position 東區議員 (Q53914229)
+WARNING: Position 離島區議員 (Q53914994) not in boundary associated_wikidata_positions
+WARNING: the district 離島區當然議員 (Q54082491) wasn't found in the boundary data for position 離島區議員 (Q53914994)
+WARNING: the district 離島區南丫及蒲台區議員選區 (Q54082434) wasn't found in the boundary data for position 離島區議員 (Q53914994)
+WARNING: the district 離島區當然議員 (Q54082491) wasn't found in the boundary data for position 離島區議員 (Q53914994)
+WARNING: the district 離島區當然議員 (Q54082491) wasn't found in the boundary data for position 離島區議員 (Q53914994)
+WARNING: the district 離島區愉景灣區議員選區 (Q54082389) wasn't found in the boundary data for position 離島區議員 (Q53914994)
+WARNING: Position 九龍城區議員 (Q53913696) not in boundary associated_wikidata_positions
+WARNING: the district 九龍城區宋皇臺區議員選區 (Q54084614) wasn't found in the boundary data for position 九龍城區議員 (Q53913696)
+WARNING: the district 九龍城區鶴園海逸區議員選區 (Q54084512) wasn't found in the boundary data for position 九龍城區議員 (Q53913696)
+WARNING: the district 九龍城區樂民區議員選區 (Q54084518) wasn't found in the boundary data for position 九龍城區議員 (Q53913696)
+WARNING: the district 九龍城區太子區議員選區 (Q54084492) wasn't found in the boundary data for position 九龍城區議員 (Q53913696)
+WARNING: the district 九龍城區馬頭圍區議員選區 (Q54084589) wasn't found in the boundary data for position 九龍城區議員 (Q53913696)
+WARNING: Position 葵青區議員 (Q53914373) not in boundary associated_wikidata_positions
+WARNING: the district 葵青區長康區議員選區 (Q54084250) wasn't found in the boundary data for position 葵青區議員 (Q53914373)
+WARNING: the district 葵青區葵涌邨南區議員選區 (Q54084370) wasn't found in the boundary data for position 葵青區議員 (Q53914373)
+WARNING: the district 葵青區華麗區議員選區 (Q54084431) wasn't found in the boundary data for position 葵青區議員 (Q53914373)
+WARNING: the district 葵青區下大窩口區議員選區 (Q54084438) wasn't found in the boundary data for position 葵青區議員 (Q53914373)
+WARNING: the district 葵青區當然議員 (Q54084352) wasn't found in the boundary data for position 葵青區議員 (Q53914373)
 WARNING: Position 觀塘區議員 (Q53914657) not in boundary associated_wikidata_positions
 WARNING: the district 觀塘區樂華北區議員選區 (Q54085101) wasn't found in the boundary data for position 觀塘區議員 (Q53914657)
 WARNING: the district 觀塘區平田區議員選區 (Q54085225) wasn't found in the boundary data for position 觀塘區議員 (Q53914657)
 WARNING: the district 觀塘區淘大區議員選區 (Q54085523) wasn't found in the boundary data for position 觀塘區議員 (Q53914657)
 WARNING: the district 觀塘區翠翔區議員選區 (Q54085459) wasn't found in the boundary data for position 觀塘區議員 (Q53914657)
 WARNING: the district 觀塘區秀茂坪北區議員選區 (Q54085759) wasn't found in the boundary data for position 觀塘區議員 (Q53914657)
+WARNING: Position 北區議員 (Q53914891) not in boundary associated_wikidata_positions
+WARNING: the district 北區皇后山區議員選區 (Q54083980) wasn't found in the boundary data for position 北區議員 (Q53914891)
+WARNING: the district 北區清河區議員選區 (Q54084064) wasn't found in the boundary data for position 北區議員 (Q53914891)
+WARNING: the district 北區天平東區議員選區 (Q54083844) wasn't found in the boundary data for position 北區議員 (Q53914891)
+WARNING: the district 北區鳳翠區議員選區 (Q54083879) wasn't found in the boundary data for position 北區議員 (Q53914891)
+WARNING: the district 北區欣盛區議員選區 (Q54083937) wasn't found in the boundary data for position 北區議員 (Q53914891)
+WARNING: Position 西貢區議員 (Q53914586) not in boundary associated_wikidata_positions
+WARNING: the district 西貢區坑口西區議員選區 (Q54075091) wasn't found in the boundary data for position 西貢區議員 (Q53914586)
+WARNING: the district 西貢區當然議員 (Q54075094) wasn't found in the boundary data for position 西貢區議員 (Q53914586)
+WARNING: the district 西貢區德明區議員選區 (Q54075268) wasn't found in the boundary data for position 西貢區議員 (Q53914586)
+WARNING: the district 西貢區景林區議員選區 (Q54075113) wasn't found in the boundary data for position 西貢區議員 (Q53914586)
+WARNING: the district 西貢區寶怡區議員選區 (Q54075149) wasn't found in the boundary data for position 西貢區議員 (Q53914586)
+WARNING: Position 沙田區議員 (Q53914481) not in boundary associated_wikidata_positions
+WARNING: the district 沙田區大水坑區議員選區 (Q54086330) wasn't found in the boundary data for position 沙田區議員 (Q53914481)
+WARNING: the district 沙田區禾輋邨區議員選區 (Q54086328) wasn't found in the boundary data for position 沙田區議員 (Q53914481)
+WARNING: the district 沙田區頌安區議員選區 (Q54086307) wasn't found in the boundary data for position 沙田區議員 (Q53914481)
+WARNING: the district 沙田區愉欣區議員選區 (Q54086318) wasn't found in the boundary data for position 沙田區議員 (Q53914481)
+WARNING: the district 沙田區乙明區議員選區 (Q54086311) wasn't found in the boundary data for position 沙田區議員 (Q53914481)
 WARNING: Position 深水埗區議員 (Q53915061) not in boundary associated_wikidata_positions
 WARNING: the district 深水埗區美孚南區議員選區 (Q54083663) wasn't found in the boundary data for position 深水埗區議員 (Q53915061)
 WARNING: the district 深水埗區荔枝角南區議員選區 (Q54083370) wasn't found in the boundary data for position 深水埗區議員 (Q53915061)
@@ -30,18 +72,47 @@ WARNING: the district 南區利東二區議員選區 (Q54084702) wasn't found in
 WARNING: the district 南區薄扶林區議員選區 (Q54084773) wasn't found in the boundary data for position 南區議員 (Q53914186)
 WARNING: the district 南區華貴區議員選區 (Q54084759) wasn't found in the boundary data for position 南區議員 (Q53914186)
 WARNING: the district 南區黃竹坑區議員選區 (Q54084685) wasn't found in the boundary data for position 南區議員 (Q53914186)
+WARNING: Position 大埔區議員 (Q53914098) not in boundary associated_wikidata_positions
+WARNING: the district 大埔區富亨區議員選區 (Q54084932) wasn't found in the boundary data for position 大埔區議員 (Q53914098)
+WARNING: the district 大埔區運頭塘區議員選區 (Q54084881) wasn't found in the boundary data for position 大埔區議員 (Q53914098)
+WARNING: the district 大埔區宏福區議員選區 (Q54084841) wasn't found in the boundary data for position 大埔區議員 (Q53914098)
+WARNING: the district 大埔區康樂園區議員選區 (Q54084938) wasn't found in the boundary data for position 大埔區議員 (Q53914098)
+WARNING: the district 大埔區怡富區議員選區 (Q54084957) wasn't found in the boundary data for position 大埔區議員 (Q53914098)
+WARNING: Position 荃灣區議員 (Q53914050) not in boundary associated_wikidata_positions
+WARNING: the district 荃灣區荃灣郊區區議員選區 (Q54076282) wasn't found in the boundary data for position 荃灣區議員 (Q53914050)
+WARNING: the district 荃灣區石圍角區議員選區 (Q54076127) wasn't found in the boundary data for position 荃灣區議員 (Q53914050)
+WARNING: the district 荃灣區馬灣區議員選區 (Q54075981) wasn't found in the boundary data for position 荃灣區議員 (Q53914050)
+WARNING: the district 荃灣區梨木樹西區議員選區 (Q54076224) wasn't found in the boundary data for position 荃灣區議員 (Q53914050)
+WARNING: the district 荃灣區愉景區議員選區 (Q54076265) wasn't found in the boundary data for position 荃灣區議員 (Q53914050)
 WARNING: Position 屯門區議員 (Q53914946) not in boundary associated_wikidata_positions
 WARNING: the district 屯門區兆翠區議員選區 (Q54084468) wasn't found in the boundary data for position 屯門區議員 (Q53914946)
 WARNING: the district 屯門區兆禧區議員選區 (Q54084471) wasn't found in the boundary data for position 屯門區議員 (Q53914946)
 WARNING: the district 屯門區蝴蝶區議員選區 (Q54084482) wasn't found in the boundary data for position 屯門區議員 (Q53914946)
 WARNING: the district 屯門區新景區議員選區 (Q54084489) wasn't found in the boundary data for position 屯門區議員 (Q53914946)
 WARNING: the district 屯門區興澤區議員選區 (Q54084473) wasn't found in the boundary data for position 屯門區議員 (Q53914946)
+WARNING: Position 灣仔區議員 (Q53914433) not in boundary associated_wikidata_positions
+WARNING: the district 灣仔區大坑區議員選區 (Q54085002) wasn't found in the boundary data for position 灣仔區議員 (Q53914433)
+WARNING: the district 灣仔區司徒拔道區議員選區 (Q54085038) wasn't found in the boundary data for position 灣仔區議員 (Q53914433)
+WARNING: the district 灣仔區銅鑼灣區議員選區 (Q54084979) wasn't found in the boundary data for position 灣仔區議員 (Q53914433)
+WARNING: the district 灣仔區樂活區議員選區 (Q54085027) wasn't found in the boundary data for position 灣仔區議員 (Q53914433)
+WARNING: the district 灣仔區愛群區議員選區 (Q54084988) wasn't found in the boundary data for position 灣仔區議員 (Q53914433)
 WARNING: Position 黃大仙區議員 (Q53913812) not in boundary associated_wikidata_positions
 WARNING: the district 黃大仙區慈雲西區議員選區 (Q54076646) wasn't found in the boundary data for position 黃大仙區議員 (Q53913812)
 WARNING: the district 黃大仙區池彩區議員選區 (Q54076490) wasn't found in the boundary data for position 黃大仙區議員 (Q53913812)
 WARNING: the district 黃大仙區竹園北區議員選區 (Q54076522) wasn't found in the boundary data for position 黃大仙區議員 (Q53913812)
 WARNING: the district 黃大仙區瓊富區議員選區 (Q54076550) wasn't found in the boundary data for position 黃大仙區議員 (Q53913812)
 WARNING: the district 黃大仙區正安區議員選區 (Q54076858) wasn't found in the boundary data for position 黃大仙區議員 (Q53913812)
+WARNING: Position 元朗區議員 (Q53914827) not in boundary associated_wikidata_positions
+WARNING: the district 元朗區南屏區議員選區 (Q54086233) wasn't found in the boundary data for position 元朗區議員 (Q53914827)
+WARNING: the district 元朗區屏山北區議員選區 (Q54086241) wasn't found in the boundary data for position 元朗區議員 (Q53914827)
+WARNING: the district 元朗區水邊區議員選區 (Q54086274) wasn't found in the boundary data for position 元朗區議員 (Q53914827)
+WARNING: the district 元朗區宏逸區議員選區 (Q54086224) wasn't found in the boundary data for position 元朗區議員 (Q53914827)
+WARNING: the district 元朗區頌華區議員選區 (Q54086250) wasn't found in the boundary data for position 元朗區議員 (Q53914827)
+WARNING: Position 大埔區民政事務專員 (Q54479094) not in boundary associated_wikidata_positions
+WARNING: Position 西貢區民政事務專員 (Q54479009) not in boundary associated_wikidata_positions
+WARNING: Position 荃灣區民政事務專員 (Q54478845) not in boundary associated_wikidata_positions
+WARNING: Position 沙田區民政事務專員 (Q54478911) not in boundary associated_wikidata_positions
+WARNING: the district 沙田區 (Q15019) wasn't found in the boundary data for position 沙田區民政事務專員 (Q54478911)
 WARNING: Position 中西區民政事務專員 (Q54478776) not in boundary associated_wikidata_positions
 WARNING: the district 中西區 (Q312485) wasn't found in the boundary data for position 中西區民政事務專員 (Q54478776)
 WARNING: Position 東區民政事務專員 (Q54479070) not in boundary associated_wikidata_positions
@@ -50,5 +121,13 @@ WARNING: Position 屯門區民政事務專員 (Q54479158) not in boundary associ
 WARNING: Position 觀塘區民政事務專員 (Q54478949) not in boundary associated_wikidata_positions
 WARNING: the district 觀塘區 (Q875773) wasn't found in the boundary data for position 觀塘區民政事務專員 (Q54478949)
 WARNING: Position 深水埗區民政事務專員 (Q54478982) not in boundary associated_wikidata_positions
+WARNING: Position 北區民政事務專員 (Q54479126) not in boundary associated_wikidata_positions
 WARNING: Position 南區民政事務專員 (Q54479040) not in boundary associated_wikidata_positions
+WARNING: Position 灣仔區民政事務專員 (Q54478875) not in boundary associated_wikidata_positions
+WARNING: Position 元朗區民政事務專員 (Q54478750) not in boundary associated_wikidata_positions
+WARNING: the district 元朗區 (Q871442) wasn't found in the boundary data for position 元朗區民政事務專員 (Q54478750)
+WARNING: Position 九龍城區民政事務專員 (Q54478707) not in boundary associated_wikidata_positions
+WARNING: Position 葵青區民政事務專員 (Q54479189) not in boundary associated_wikidata_positions
 WARNING: Position 黃大仙區民政事務專員 (Q54478811) not in boundary associated_wikidata_positions
+WARNING: Position 油尖旺區民政事務專員 (Q54478722) not in boundary associated_wikidata_positions
+WARNING: Position 離島區民政事務專員 (Q54479223) not in boundary associated_wikidata_positions
