@@ -1,3 +1,82 @@
 [
-
+  {
+    "comment": "Government of Hong Kong",
+    "executive_item_id": "Q15164",
+    "positions": [
+      {
+        "comment": "Chief Executive of Hong Kong",
+        "position_item_id": "Q2741486"
+      }
+    ]
+  },
+  {
+    "comment": "Central and Western District District Management Committees",
+    "executive_item_id": "Q54553011",
+    "positions": [
+      {
+        "comment": "district officer of Central and Western District",
+        "position_item_id": "Q54478776"
+      }
+    ]
+  },
+  {
+    "comment": "Eastern District District Management Committees",
+    "executive_item_id": "Q54553015",
+    "positions": [
+      {
+        "comment": "district officer of Eastern District",
+        "position_item_id": "Q54479070"
+      }
+    ]
+  },
+  {
+    "comment": "Tuen Mun District District Management Committees",
+    "executive_item_id": "Q54553016",
+    "positions": [
+      {
+        "comment": "district officer of Tuen Mun District",
+        "position_item_id": "Q54479158"
+      }
+    ]
+  },
+  {
+    "comment": "Kwun Tong District District Management Committees",
+    "executive_item_id": "Q54553017",
+    "positions": [
+      {
+        "comment": "district officer of Kwun Tong District",
+        "position_item_id": "Q54478949"
+      }
+    ]
+  },
+  {
+    "comment": "Sham Shui Po District District Management Committees",
+    "executive_item_id": "Q54553019",
+    "positions": [
+      {
+        "comment": "district officer of Sham Shui Po District",
+        "position_item_id": "Q54478982"
+      }
+    ]
+  },
+  {
+    "comment": "Southern District District Management Committees",
+    "executive_item_id": "Q54553022",
+    "positions": [
+      {
+        "comment": "district officer of Southern District",
+        "position_item_id": "Q54479040"
+      }
+    ]
+  },
+  {
+    "comment": "Wong Tai Sin District District Management Committees",
+    "executive_item_id": "Q54553042",
+    "positions": [
+      {
+        "comment": "district officer of Wong Tai Sin District",
+        "position_item_id": "Q54478811"
+      }
+    ]
+  }
 ]

@@ -1,5 +1,10 @@
-SELECT DISTINCT ?house ?houseLabel ?legislature ?legislatureLabel ?term ?termLabel ?termStart ?termEnd WHERE {
-  VALUES ?house { wd:Q19208 }
+SELECT DISTINCT
+  ?house ?houseLabel
+  ?legislature ?legislatureLabel
+  ?term ?termLabel
+  ?termStart ?termEnd
+WHERE {
+  VALUES ?house { wd:Q19208 wd:Q5062068 wd:Q5330109 wd:Q6450571 wd:Q7487362 wd:Q7569875 wd:Q7851385 wd:Q8032028 }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
       OPTIONAL { ?subTerm wdt:P31 ?baseTerm }
