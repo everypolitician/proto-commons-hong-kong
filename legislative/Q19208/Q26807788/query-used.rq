@@ -10,20 +10,17 @@ WHERE {
   BIND(wd:Q27908372 as ?role) .
   BIND(wd:Q19208 as ?org) .
   OPTIONAL {
-  ?org rdfs:label ?org_zh_hk
-  FILTER(LANG(?org_zh_hk) = "zh-hk")
-}
-
+          ?org rdfs:label ?org_zh_hk
+          FILTER(LANG(?org_zh_hk) = "zh-hk")
+        }
 OPTIONAL {
-  ?org rdfs:label ?org_zh
-  FILTER(LANG(?org_zh) = "zh")
-}
-
+          ?org rdfs:label ?org_zh
+          FILTER(LANG(?org_zh) = "zh")
+        }
 OPTIONAL {
-  ?org rdfs:label ?org_en
-  FILTER(LANG(?org_en) = "en")
-}
-
+          ?org rdfs:label ?org_en
+          FILTER(LANG(?org_en) = "en")
+        }
   OPTIONAL {
     ?org wdt:P1001 ?org_jurisdiction
   }
@@ -32,54 +29,45 @@ OPTIONAL {
   }
   ?item p:P39 ?statement .
   OPTIONAL {
-  ?item rdfs:label ?name_zh_hk
-  FILTER(LANG(?name_zh_hk) = "zh-hk")
-}
-
+          ?item rdfs:label ?name_zh_hk
+          FILTER(LANG(?name_zh_hk) = "zh-hk")
+        }
 OPTIONAL {
-  ?item rdfs:label ?name_zh
-  FILTER(LANG(?name_zh) = "zh")
-}
-
+          ?item rdfs:label ?name_zh
+          FILTER(LANG(?name_zh) = "zh")
+        }
 OPTIONAL {
-  ?item rdfs:label ?name_en
-  FILTER(LANG(?name_en) = "en")
-}
-
+          ?item rdfs:label ?name_en
+          FILTER(LANG(?name_en) = "en")
+        }
   ?statement ps:P39 ?role .
   OPTIONAL {
-  ?role rdfs:label ?role_zh_hk
-  FILTER(LANG(?role_zh_hk) = "zh-hk")
-}
-
+          ?role rdfs:label ?role_zh_hk
+          FILTER(LANG(?role_zh_hk) = "zh-hk")
+        }
 OPTIONAL {
-  ?role rdfs:label ?role_zh
-  FILTER(LANG(?role_zh) = "zh")
-}
-
+          ?role rdfs:label ?role_zh
+          FILTER(LANG(?role_zh) = "zh")
+        }
 OPTIONAL {
-  ?role rdfs:label ?role_en
-  FILTER(LANG(?role_en) = "en")
-}
-
+          ?role rdfs:label ?role_en
+          FILTER(LANG(?role_en) = "en")
+        }
   OPTIONAL {
     ?role wdt:P279 ?role_superclass .
     ?role_superclass wdt:P279+ wd:Q4175034
     OPTIONAL {
-  ?role_superclass rdfs:label ?role_superclass_zh_hk
-  FILTER(LANG(?role_superclass_zh_hk) = "zh-hk")
-}
-
+          ?role_superclass rdfs:label ?role_superclass_zh_hk
+          FILTER(LANG(?role_superclass_zh_hk) = "zh-hk")
+        }
 OPTIONAL {
-  ?role_superclass rdfs:label ?role_superclass_zh
-  FILTER(LANG(?role_superclass_zh) = "zh")
-}
-
+          ?role_superclass rdfs:label ?role_superclass_zh
+          FILTER(LANG(?role_superclass_zh) = "zh")
+        }
 OPTIONAL {
-  ?role_superclass rdfs:label ?role_superclass_en
-  FILTER(LANG(?role_superclass_en) = "en")
-}
-
+          ?role_superclass rdfs:label ?role_superclass_en
+          FILTER(LANG(?role_superclass_en) = "en")
+        }
   }
   ?statement pq:P2937 wd:Q26807788 .
   OPTIONAL { ?statement pq:P580 ?start }
@@ -87,38 +75,32 @@ OPTIONAL {
   OPTIONAL {
     ?statement pq:P768 ?district.
     OPTIONAL {
-  ?district rdfs:label ?district_name_zh_hk
-  FILTER(LANG(?district_name_zh_hk) = "zh-hk")
-}
-
+          ?district rdfs:label ?district_name_zh_hk
+          FILTER(LANG(?district_name_zh_hk) = "zh-hk")
+        }
 OPTIONAL {
-  ?district rdfs:label ?district_name_zh
-  FILTER(LANG(?district_name_zh) = "zh")
-}
-
+          ?district rdfs:label ?district_name_zh
+          FILTER(LANG(?district_name_zh) = "zh")
+        }
 OPTIONAL {
-  ?district rdfs:label ?district_name_en
-  FILTER(LANG(?district_name_en) = "en")
-}
-
+          ?district rdfs:label ?district_name_en
+          FILTER(LANG(?district_name_en) = "en")
+        }
   }
   OPTIONAL {
     ?statement pq:P4100 ?party.
     OPTIONAL {
-  ?party rdfs:label ?party_name_zh_hk
-  FILTER(LANG(?party_name_zh_hk) = "zh-hk")
-}
-
+          ?party rdfs:label ?party_name_zh_hk
+          FILTER(LANG(?party_name_zh_hk) = "zh-hk")
+        }
 OPTIONAL {
-  ?party rdfs:label ?party_name_zh
-  FILTER(LANG(?party_name_zh) = "zh")
-}
-
+          ?party rdfs:label ?party_name_zh
+          FILTER(LANG(?party_name_zh) = "zh")
+        }
 OPTIONAL {
-  ?party rdfs:label ?party_name_en
-  FILTER(LANG(?party_name_en) = "en")
-}
-
+          ?party rdfs:label ?party_name_en
+          FILTER(LANG(?party_name_en) = "en")
+        }
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
   
