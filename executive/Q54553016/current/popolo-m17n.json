@@ -6,7 +6,58 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q986383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q986383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54479158"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "屯門",
+        "lang:en": "Tuen Mun"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
 

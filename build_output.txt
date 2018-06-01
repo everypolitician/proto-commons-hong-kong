@@ -108,26 +108,3 @@ WARNING: the district 元朗區屏山北區議員選區 (Q54086241) wasn't found
 WARNING: the district 元朗區水邊區議員選區 (Q54086274) wasn't found in the boundary data for position 元朗區議員 (Q53914827)
 WARNING: the district 元朗區宏逸區議員選區 (Q54086224) wasn't found in the boundary data for position 元朗區議員 (Q53914827)
 WARNING: the district 元朗區頌華區議員選區 (Q54086250) wasn't found in the boundary data for position 元朗區議員 (Q53914827)
-WARNING: Position 大埔區民政事務專員 (Q54479094) not in boundary associated_wikidata_positions
-WARNING: Position 西貢區民政事務專員 (Q54479009) not in boundary associated_wikidata_positions
-WARNING: Position 荃灣區民政事務專員 (Q54478845) not in boundary associated_wikidata_positions
-WARNING: Position 沙田區民政事務專員 (Q54478911) not in boundary associated_wikidata_positions
-WARNING: the district 沙田區 (Q15019) wasn't found in the boundary data for position 沙田區民政事務專員 (Q54478911)
-WARNING: Position 中西區民政事務專員 (Q54478776) not in boundary associated_wikidata_positions
-WARNING: the district 中西區 (Q312485) wasn't found in the boundary data for position 中西區民政事務專員 (Q54478776)
-WARNING: Position 東區民政事務專員 (Q54479070) not in boundary associated_wikidata_positions
-WARNING: the district 東區 (Q727054) wasn't found in the boundary data for position 東區民政事務專員 (Q54479070)
-WARNING: Position 屯門區民政事務專員 (Q54479158) not in boundary associated_wikidata_positions
-WARNING: Position 觀塘區民政事務專員 (Q54478949) not in boundary associated_wikidata_positions
-WARNING: the district 觀塘區 (Q875773) wasn't found in the boundary data for position 觀塘區民政事務專員 (Q54478949)
-WARNING: Position 深水埗區民政事務專員 (Q54478982) not in boundary associated_wikidata_positions
-WARNING: Position 北區民政事務專員 (Q54479126) not in boundary associated_wikidata_positions
-WARNING: Position 南區民政事務專員 (Q54479040) not in boundary associated_wikidata_positions
-WARNING: Position 灣仔區民政事務專員 (Q54478875) not in boundary associated_wikidata_positions
-WARNING: Position 元朗區民政事務專員 (Q54478750) not in boundary associated_wikidata_positions
-WARNING: the district 元朗區 (Q871442) wasn't found in the boundary data for position 元朗區民政事務專員 (Q54478750)
-WARNING: Position 九龍城區民政事務專員 (Q54478707) not in boundary associated_wikidata_positions
-WARNING: Position 葵青區民政事務專員 (Q54479189) not in boundary associated_wikidata_positions
-WARNING: Position 黃大仙區民政事務專員 (Q54478811) not in boundary associated_wikidata_positions
-WARNING: Position 油尖旺區民政事務專員 (Q54478722) not in boundary associated_wikidata_positions
-WARNING: Position 離島區民政事務專員 (Q54479223) not in boundary associated_wikidata_positions
