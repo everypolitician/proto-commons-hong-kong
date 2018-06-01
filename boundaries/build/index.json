@@ -674,5 +674,19 @@
       "match": "country:hk/district:tuen-mun",
       "column": "MS_FB_PARE"
     }
+  },
+  {
+    "directory": "functional-constituencies",
+    "area_type_wikidata_item_id": "Q5508804",
+    "associations": [
+      {
+        "comment": "member of the Legislative Council of Hong Kong",
+        "position_item_id": "Q27908372"
+      }
+    ],
+    "name_columns": {
+      "lang:zh": "NAME",
+      "lang:en": "NAME_EN"
+    }
   }
 ]
