@@ -192,6 +192,21 @@
           "identifier": "Q2914027"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "無黨籍政治人物",
+        "lang:zh": "無黨籍政治人物",
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
     }
   ],
   "areas": [
@@ -279,6 +294,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7227847-77de8c9e-47cd-2ce6-f5bd-793ef7a3a13e",
       "person_id": "Q7227847",
+      "on_behalf_of_id": "Q327591",
       "organization_id": "Q19208",
       "area_id": "Q1099862",
       "start_date": "2016-10-01",
@@ -298,6 +314,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q9114735-b964fedf-4545-c19d-ef53-bad53b14eece",
       "person_id": "Q9114735",
+      "on_behalf_of_id": "Q327591",
       "organization_id": "Q19208",
       "area_id": "Q3248921",
       "start_date": "2018-03-21",
