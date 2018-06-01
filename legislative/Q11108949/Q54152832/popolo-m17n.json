@@ -1,0 +1,269 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "余德寶",
+        "lang:en": "Yu Tak Po"
+      },
+      "id": "Q24833557",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24833557"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/YuTakPoANDY"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "楊子熙",
+        "lang:en": "Yeung Tsz Hei"
+      },
+      "id": "Q54359585",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54359585"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ymt180"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "鄧銘心",
+        "lang:en": "Tang Ming Sum"
+      },
+      "id": "Q54359882",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54359882"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "涂謹申",
+        "lang:zh": "涂謹申",
+        "lang:en": "James To"
+      },
+      "id": "Q6144316",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6144316"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ToKunSun"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "黃建新",
+        "lang:zh": "黃建新",
+        "lang:en": "Huang Jianxin"
+      },
+      "id": "Q704612",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q704612"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "油尖旺區議會",
+        "lang:en": "Yau Tsim Mong District Council"
+      },
+      "id": "Q11108949",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11108949"
+        }
+      ],
+      "area_id": "Q157669",
+      "seat_counts": {
+        "Q53914332": "19"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主黨",
+        "lang:zh": "民主黨",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q21892",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21892"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "公民黨",
+        "lang:zh": "公民黨",
+        "lang:en": "Civic Party"
+      },
+      "id": "Q23055",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23055"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "香港經濟民生聯盟",
+        "lang:zh": "香港經濟民生聯盟",
+        "lang:en": "Business and Professionals Alliance for Hong Kong"
+      },
+      "id": "Q2914027",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2914027"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24833557-DA47BFA3-8903-4AEC-AA9C-E63C2E5CAB86",
+      "person_id": "Q24833557",
+      "on_behalf_of_id": "Q23055",
+      "organization_id": "Q11108949",
+      "area_id": "Q54074990",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914332",
+      "role": {
+        "lang:zh": "油尖旺區議員",
+        "lang:en": "Yau Tsim Mong District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54359585-E4C378A0-E7A4-45D0-83A6-77901A0E0F5D",
+      "person_id": "Q54359585",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q11108949",
+      "area_id": "Q54074773",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914332",
+      "role": {
+        "lang:zh": "油尖旺區議員",
+        "lang:en": "Yau Tsim Mong District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54359882-F49FE2A2-9ACD-4508-87C1-6B5822443E1A",
+      "person_id": "Q54359882",
+      "organization_id": "Q11108949",
+      "area_id": "Q54074907",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914332",
+      "role": {
+        "lang:zh": "油尖旺區議員",
+        "lang:en": "Yau Tsim Mong District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6144316-BBA4EB03-FED6-4FC7-9B7E-437C9066FE3D",
+      "person_id": "Q6144316",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q11108949",
+      "area_id": "Q54075022",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914332",
+      "role": {
+        "lang:zh": "油尖旺區議員",
+        "lang:en": "Yau Tsim Mong District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q704612-D436ABC8-969F-4404-8442-B639FBF062E7",
+      "person_id": "Q704612",
+      "on_behalf_of_id": "Q2914027",
+      "organization_id": "Q11108949",
+      "area_id": "Q54074794",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914332",
+      "role": {
+        "lang:zh": "油尖旺區議員",
+        "lang:en": "Yau Tsim Mong District councilor"
+      }
+    }
+  ]
+}

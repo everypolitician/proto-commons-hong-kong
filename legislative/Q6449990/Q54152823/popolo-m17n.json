@@ -1,0 +1,247 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "徐曉杰",
+        "lang:en": "Jonathan Tsui Hiu kit"
+      },
+      "id": "Q11070721",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11070721"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/tsuihiukit"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "黃潤達",
+        "lang:en": "Ivan Wong Yun-Tat"
+      },
+      "id": "Q28410186",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28410186"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ivan.wong.520125"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "黃耀聰",
+        "lang:en": "Wong Yiu-chung"
+      },
+      "id": "Q54361027",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54361027"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "黃炳權",
+        "lang:en": "Wong Bing-kuen"
+      },
+      "id": "Q54361228",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54361228"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "鄧瑞華",
+        "lang:en": "Tang Shui-wah"
+      },
+      "id": "Q54361477",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54361477"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "葵青區議會",
+        "lang:en": "Kwai Tsing District Council"
+      },
+      "id": "Q6449990",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6449990"
+        }
+      ],
+      "area_id": "Q877132",
+      "seat_counts": {
+        "Q53914373": "30"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主黨",
+        "lang:zh": "民主黨",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q21892",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21892"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "香港經濟民生聯盟",
+        "lang:zh": "香港經濟民生聯盟",
+        "lang:en": "Business and Professionals Alliance for Hong Kong"
+      },
+      "id": "Q2914027",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2914027"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "實政圓桌",
+        "lang:en": "Roundtable (Hong Kong)"
+      },
+      "id": "Q38778615",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38778615"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11070721-8A0F5CDC-EBDC-492A-9621-F645607843C4",
+      "person_id": "Q11070721",
+      "on_behalf_of_id": "Q38778615",
+      "organization_id": "Q6449990",
+      "area_id": "Q54084250",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914373",
+      "role": {
+        "lang:zh": "葵青區議員",
+        "lang:en": "Kwai Tsing District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28410186-C14CA863-A4EE-402A-8BB4-7FD34E8B6C05",
+      "person_id": "Q28410186",
+      "organization_id": "Q6449990",
+      "area_id": "Q54084370",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914373",
+      "role": {
+        "lang:zh": "葵青區議員",
+        "lang:en": "Kwai Tsing District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54361027-3E9B1138-ABAE-49AA-811E-913FE34F177C",
+      "person_id": "Q54361027",
+      "on_behalf_of_id": "Q2914027",
+      "organization_id": "Q6449990",
+      "area_id": "Q54084431",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914373",
+      "role": {
+        "lang:zh": "葵青區議員",
+        "lang:en": "Kwai Tsing District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54361228-08BB2FC6-550B-4FF7-A2AA-B2B261BCFE6E",
+      "person_id": "Q54361228",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q6449990",
+      "area_id": "Q54084438",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914373",
+      "role": {
+        "lang:zh": "葵青區議員",
+        "lang:en": "Kwai Tsing District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54361477-BB400645-FCC9-415A-B34E-E12CA4DA3ADB",
+      "person_id": "Q54361477",
+      "organization_id": "Q6449990",
+      "area_id": "Q54084352",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914373",
+      "role": {
+        "lang:zh": "葵青區議員",
+        "lang:en": "Kwai Tsing District councilor"
+      }
+    }
+  ]
+}

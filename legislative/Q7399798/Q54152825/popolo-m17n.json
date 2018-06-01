@@ -1,0 +1,220 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "邱玉麟",
+        "lang:en": "Yau Yuk-lun"
+      },
+      "id": "Q54355172",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54355172"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "王水生",
+        "lang:en": "Wong Shui-sang"
+      },
+      "id": "Q54362667",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54362667"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "温悅昌",
+        "lang:en": "Wan Yuet-cheung"
+      },
+      "id": "Q54362781",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54362781"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100004544026580"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "温啟明",
+        "lang:en": "Wan Kai-ming"
+      },
+      "id": "Q54362853",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54362853"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100007558908541"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "謝正楓",
+        "lang:en": "Tse Ching-fung"
+      },
+      "id": "Q54363051",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54363051"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/edmondtcf"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "西貢區議會",
+        "lang:en": "Sai Kung District Council"
+      },
+      "id": "Q7399798",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399798"
+        }
+      ],
+      "area_id": "Q155697",
+      "seat_counts": {
+        "Q53914586": "29"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54355172-9365079A-77DD-493C-9AC5-3262781A4C4D",
+      "person_id": "Q54355172",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q7399798",
+      "area_id": "Q54075091",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914586",
+      "role": {
+        "lang:zh": "西貢區議員",
+        "lang:en": "Sai Kung District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54362667-373677C1-D3AA-45A8-83CF-D134C0B11FC3",
+      "person_id": "Q54362667",
+      "organization_id": "Q7399798",
+      "area_id": "Q54075094",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914586",
+      "role": {
+        "lang:zh": "西貢區議員",
+        "lang:en": "Sai Kung District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54362781-823D6883-987F-45B1-9786-C68E8B56D4A1",
+      "person_id": "Q54362781",
+      "organization_id": "Q7399798",
+      "area_id": "Q54075268",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914586",
+      "role": {
+        "lang:zh": "西貢區議員",
+        "lang:en": "Sai Kung District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54362853-BC468098-C049-4FEF-8F49-DD234F55074B",
+      "person_id": "Q54362853",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q7399798",
+      "area_id": "Q54075113",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914586",
+      "role": {
+        "lang:zh": "西貢區議員",
+        "lang:en": "Sai Kung District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54363051-8905F62F-9DC1-48C9-A229-C59C30858424",
+      "person_id": "Q54363051",
+      "organization_id": "Q7399798",
+      "area_id": "Q54075149",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914586",
+      "role": {
+        "lang:zh": "西貢區議員",
+        "lang:en": "Sai Kung District councilor"
+      }
+    }
+  ]
+}

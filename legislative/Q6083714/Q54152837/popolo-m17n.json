@@ -1,0 +1,229 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "翁志明",
+        "lang:en": "Yung Chi-ming"
+      },
+      "id": "Q54360500",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54360500"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "余麗芬",
+        "lang:en": "Yu Lai-fan"
+      },
+      "id": "Q54360644",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54360644"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/yu.laifan"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "黃文漢",
+        "lang:en": "Wong Man-hon"
+      },
+      "id": "Q54360905",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54360905"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "黃漢權",
+        "lang:en": "Wong Hon-kuen"
+      },
+      "id": "Q54360930",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54360930"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "容詠嫦",
+        "lang:en": "Amy Yung"
+      },
+      "id": "Q7930007",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7930007"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "離島區議會",
+        "lang:en": "Islands District Council"
+      },
+      "id": "Q6083714",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6083714"
+        }
+      ],
+      "area_id": "Q752523",
+      "seat_counts": {
+        "Q53914994": "18"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "公民黨",
+        "lang:zh": "公民黨",
+        "lang:en": "Civic Party"
+      },
+      "id": "Q23055",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23055"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54360500-BDF4B83B-E387-40BD-94C4-052C590A4821",
+      "person_id": "Q54360500",
+      "organization_id": "Q6083714",
+      "area_id": "Q54082491",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914994",
+      "role": {
+        "lang:zh": "離島區議員",
+        "lang:en": "Islands District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54360644-A6E773D9-E407-4E15-95B2-5C694C7CEE2C",
+      "person_id": "Q54360644",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q6083714",
+      "area_id": "Q54082434",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914994",
+      "role": {
+        "lang:zh": "離島區議員",
+        "lang:en": "Islands District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54360905-2C7A3CED-B867-4703-8FE7-2F4B612DC47C",
+      "person_id": "Q54360905",
+      "organization_id": "Q6083714",
+      "area_id": "Q54082491",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914994",
+      "role": {
+        "lang:zh": "離島區議員",
+        "lang:en": "Islands District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54360930-8107FF61-0E24-4DBB-8F9E-0BC64E423FF8",
+      "person_id": "Q54360930",
+      "organization_id": "Q6083714",
+      "area_id": "Q54082491",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914994",
+      "role": {
+        "lang:zh": "離島區議員",
+        "lang:en": "Islands District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7930007-1DB83D51-4F32-4A97-92B2-0B5418020DC2",
+      "person_id": "Q7930007",
+      "on_behalf_of_id": "Q23055",
+      "organization_id": "Q6083714",
+      "area_id": "Q54082389",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914994",
+      "role": {
+        "lang:zh": "離島區議員",
+        "lang:en": "Islands District councilor"
+      }
+    }
+  ]
+}

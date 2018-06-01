@@ -1,58 +1,14 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:zh": "謝凌駿",
-        "lang:en": "Steve TSE, JP"
-      },
-      "id": "Q54542123",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q54542123"
-        }
-      ],
-      "links": [
 
-      ]
-    }
   ],
   "organizations": [
-    {
-      "name": {
-        "lang:zh": "觀塘區地區管理委員會",
-        "lang:en": "Kwun Tong District District Management Committees"
-      },
-      "id": "Q54553017",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q54553017"
-        }
-      ],
-      "area_id": "Q875773"
-    }
+
   ],
   "areas": [
 
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q54542123-e93018d2-4c71-8858-4208-31ef6302e3a6",
-      "person_id": "Q54542123",
-      "organization_id": "Q54553017",
-      "area_id": "Q875773",
-      "role_superclass_code": "Q54478949",
-      "role_superclass": {
-        "lang:zh": "觀塘區民政事務專員",
-        "lang:en": "district officer of Kwun Tong District"
-      },
-      "role_code": "Q54478949",
-      "role": {
-        "lang:zh": "觀塘區民政事務專員",
-        "lang:en": "district officer of Kwun Tong District"
-      }
-    }
+
   ]
 }

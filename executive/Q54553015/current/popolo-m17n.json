@@ -1,58 +1,14 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:zh": "鄧如欣",
-        "lang:en": "Mr. Herman Cho, JP"
-      },
-      "id": "Q54542064",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q54542064"
-        }
-      ],
-      "links": [
 
-      ]
-    }
   ],
   "organizations": [
-    {
-      "name": {
-        "lang:zh": "東區地區管理委員會",
-        "lang:en": "Eastern District District Management Committees"
-      },
-      "id": "Q54553015",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q54553015"
-        }
-      ],
-      "area_id": "Q727054"
-    }
+
   ],
   "areas": [
 
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q54542064-859d94d3-44f8-11a8-57ff-f06de78e2795",
-      "person_id": "Q54542064",
-      "organization_id": "Q54553015",
-      "area_id": "Q727054",
-      "role_superclass_code": "Q54479070",
-      "role_superclass": {
-        "lang:zh": "東區民政事務專員",
-        "lang:en": "district officer of Eastern District"
-      },
-      "role_code": "Q54479070",
-      "role": {
-        "lang:zh": "東區民政事務專員",
-        "lang:en": "district officer of Eastern District"
-      }
-    }
+
   ]
 }

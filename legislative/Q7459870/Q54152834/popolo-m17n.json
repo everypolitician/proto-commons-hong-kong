@@ -1,0 +1,252 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "容溟舟",
+        "lang:en": "Yung Ming Chau, Michael"
+      },
+      "id": "Q10246328",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10246328"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/yungmcmichael"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "余倩雯",
+        "lang:en": "Yue Shin-man"
+      },
+      "id": "Q10886492",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10886492"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "葉榮",
+        "lang:en": "Yip Wing"
+      },
+      "id": "Q24835491",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24835491"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "姚嘉俊",
+        "lang:en": "Yiu Ka-chun"
+      },
+      "id": "Q54363745",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54363745"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/yiukachunoffice"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "丘文俊",
+        "lang:en": "YAU Man-chun"
+      },
+      "id": "Q9383989",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9383989"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/yaudp"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh-hk": "沙田區議會",
+        "lang:zh": "沙田區議會",
+        "lang:en": "Sha Tin District Council"
+      },
+      "id": "Q7459870",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7459870"
+        }
+      ],
+      "area_id": "Q15019",
+      "seat_counts": {
+        "Q53914481": "39"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "公民黨",
+        "lang:zh": "公民黨",
+        "lang:en": "Civic Party"
+      },
+      "id": "Q23055",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23055"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "工黨",
+        "lang:zh": "工黨",
+        "lang:en": "Labour Party"
+      },
+      "id": "Q23057",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23057"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10246328-E2DA3076-A914-4A17-89BD-B51A6BB57298",
+      "person_id": "Q10246328",
+      "on_behalf_of_id": "Q23055",
+      "organization_id": "Q7459870",
+      "area_id": "Q54086330",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914481",
+      "role": {
+        "lang:zh": "沙田區議員",
+        "lang:en": "Sha Tin District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10886492-2D822933-5FEE-4A95-932F-242FA059750B",
+      "person_id": "Q10886492",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q7459870",
+      "area_id": "Q54086328",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914481",
+      "role": {
+        "lang:zh": "沙田區議員",
+        "lang:en": "Sha Tin District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24835491-1CC3178F-4839-4A62-BCA9-F1EA162A1A02",
+      "person_id": "Q24835491",
+      "on_behalf_of_id": "Q23057",
+      "organization_id": "Q7459870",
+      "area_id": "Q54086307",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914481",
+      "role": {
+        "lang:zh": "沙田區議員",
+        "lang:en": "Sha Tin District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54363745-2315E515-53A1-45CE-9BFE-3E4B3B7B8165",
+      "person_id": "Q54363745",
+      "organization_id": "Q7459870",
+      "area_id": "Q54086318",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914481",
+      "role": {
+        "lang:zh": "沙田區議員",
+        "lang:en": "Sha Tin District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9383989-FED9573D-2752-435A-8064-E7DADF6203F5",
+      "person_id": "Q9383989",
+      "organization_id": "Q7459870",
+      "area_id": "Q54086311",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914481",
+      "role": {
+        "lang:zh": "沙田區議員",
+        "lang:en": "Sha Tin District councilor"
+      }
+    }
+  ]
+}

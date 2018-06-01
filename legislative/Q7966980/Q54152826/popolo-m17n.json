@@ -1,0 +1,217 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "楊雪盈",
+        "lang:en": "Clarisse Yeung"
+      },
+      "id": "Q21565065",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21565065"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "黃宏泰",
+        "lang:en": "Ivan Wong Wang Tai"
+      },
+      "id": "Q22100243",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22100243"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "伍婉婷",
+        "lang:en": "Yolanda Ng"
+      },
+      "id": "Q28870809",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28870809"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/yolanda.office"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "謝偉俊",
+        "lang:zh": "謝偉俊",
+        "lang:en": "Paul Tse"
+      },
+      "id": "Q3479098",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3479098"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/paulwtse"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "鄭琴淵",
+        "lang:en": "Tang King-yung"
+      },
+      "id": "Q54357106",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54357106"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "灣仔區議會",
+        "lang:en": "Wan Chai District Council"
+      },
+      "id": "Q7966980",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7966980"
+        }
+      ],
+      "area_id": "Q986434",
+      "seat_counts": {
+        "Q53914433": "13"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21565065-C8F9C1D6-1A56-46C5-8685-B8315781EDCB",
+      "person_id": "Q21565065",
+      "organization_id": "Q7966980",
+      "area_id": "Q54085002",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914433",
+      "role": {
+        "lang:zh": "灣仔區議員",
+        "lang:en": "Wan Chai District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22100243-36223A64-83A3-4148-ADD5-2753AC761C4C",
+      "person_id": "Q22100243",
+      "organization_id": "Q7966980",
+      "area_id": "Q54085038",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914433",
+      "role": {
+        "lang:zh": "灣仔區議員",
+        "lang:en": "Wan Chai District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28870809-60AD1841-2933-48EB-B30B-55E9A6F0D379",
+      "person_id": "Q28870809",
+      "organization_id": "Q7966980",
+      "area_id": "Q54084979",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914433",
+      "role": {
+        "lang:zh": "灣仔區議員",
+        "lang:en": "Wan Chai District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3479098-B0986F80-884F-4E3A-8903-B68401DFDF20",
+      "person_id": "Q3479098",
+      "organization_id": "Q7966980",
+      "area_id": "Q54085027",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914433",
+      "role": {
+        "lang:zh": "灣仔區議員",
+        "lang:en": "Wan Chai District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54357106-F3FBC384-8B6E-4A8C-B35E-7426683CD65E",
+      "person_id": "Q54357106",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q7966980",
+      "area_id": "Q54084988",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914433",
+      "role": {
+        "lang:zh": "灣仔區議員",
+        "lang:en": "Wan Chai District councilor"
+      }
+    }
+  ]
+}

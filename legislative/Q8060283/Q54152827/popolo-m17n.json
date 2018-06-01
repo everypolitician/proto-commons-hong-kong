@@ -1,0 +1,249 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh-hk": "黃偉賢",
+        "lang:zh": "黃偉賢",
+        "lang:en": "Zachary Wong"
+      },
+      "id": "Q1194897",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1194897"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "楊家安",
+        "lang:en": "Young Ka-on"
+      },
+      "id": "Q16923274",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16923274"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "袁敏兒",
+        "lang:en": "Yuen Man-yee"
+      },
+      "id": "Q54356050",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54356050"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100000532051424"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "姚國威",
+        "lang:en": "Yiu Kwok-wai"
+      },
+      "id": "Q54356094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54356094"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "黃煒鈴",
+        "lang:en": "Wong Wai-ling"
+      },
+      "id": "Q54356285",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54356285"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/wongweelie"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "元朗區議會",
+        "lang:en": "Yuen Long District Council"
+      },
+      "id": "Q8060283",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8060283"
+        }
+      ],
+      "area_id": "Q871442",
+      "seat_counts": {
+        "Q53914827": "41"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主黨",
+        "lang:zh": "民主黨",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q21892",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21892"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "香港工會聯合會",
+        "lang:zh": "香港工會聯合會",
+        "lang:en": "Hong Kong Federation of Trade Unions"
+      },
+      "id": "Q23062",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23062"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1194897-0F6C211F-7413-40FD-88C5-7AD7B0564088",
+      "person_id": "Q1194897",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q8060283",
+      "area_id": "Q54086233",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914827",
+      "role": {
+        "lang:zh": "元朗區議員",
+        "lang:en": "Yuen Long District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16923274-C41648BB-CB5A-4E16-861D-5FA6259D4D40",
+      "person_id": "Q16923274",
+      "organization_id": "Q8060283",
+      "area_id": "Q54086241",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914827",
+      "role": {
+        "lang:zh": "元朗區議員",
+        "lang:en": "Yuen Long District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54356050-9674DCF1-A7AE-4ECA-A11F-0CBA097D6017",
+      "person_id": "Q54356050",
+      "organization_id": "Q8060283",
+      "area_id": "Q54086274",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914827",
+      "role": {
+        "lang:zh": "元朗區議員",
+        "lang:en": "Yuen Long District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54356094-162EE552-4AC4-49BB-89BC-27FEC2926591",
+      "person_id": "Q54356094",
+      "on_behalf_of_id": "Q23062",
+      "organization_id": "Q8060283",
+      "area_id": "Q54086224",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914827",
+      "role": {
+        "lang:zh": "元朗區議員",
+        "lang:en": "Yuen Long District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54356285-E2B4CCB5-A882-4F9E-83F4-56E99146EAD8",
+      "person_id": "Q54356285",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q8060283",
+      "area_id": "Q54086250",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914827",
+      "role": {
+        "lang:zh": "元朗區議員",
+        "lang:en": "Yuen Long District councilor"
+      }
+    }
+  ]
+}
