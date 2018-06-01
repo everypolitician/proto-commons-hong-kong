@@ -1,0 +1,243 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "許智峯",
+        "lang:en": "Ted Hui Chi-fung"
+      },
+      "id": "Q19825791",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19825791"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/huichifung913"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "甘乃威",
+        "lang:en": "Kam Nai-wai"
+      },
+      "id": "Q3051937",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3051937"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/kamnaiwaidphk"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "鄭麗琼",
+        "lang:en": "Cheng Lai-king"
+      },
+      "id": "Q54365315",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54365315"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chenglaiking"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "張國鈞",
+        "lang:en": "Horace Cheung"
+      },
+      "id": "Q7237065",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7237065"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/horace.ckk"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "陳財喜",
+        "lang:en": "Chan Choi-hi"
+      },
+      "id": "Q9441082",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9441082"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/choihi.chan"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "中西區議會",
+        "lang:en": "Central and Western District Council"
+      },
+      "id": "Q5062068",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5062068"
+        }
+      ],
+      "area_id": "Q312485",
+      "seat_counts": {
+        "Q53913929": "15"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主黨",
+        "lang:zh": "民主黨",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q21892",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21892"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19825791-FB5E1548-C77A-4B88-8DB0-719D63034773",
+      "person_id": "Q19825791",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q5062068",
+      "area_id": "Q54086345",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53913929",
+      "role": {
+        "lang:zh": "中西區議員",
+        "lang:en": "Central and Western District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3051937-BAFD92D9-B4AB-4364-90FE-7FC4A9E39697",
+      "person_id": "Q3051937",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q5062068",
+      "area_id": "Q54086364",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53913929",
+      "role": {
+        "lang:zh": "中西區議員",
+        "lang:en": "Central and Western District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54365315-F92ED9B4-A317-46FF-A971-96B98F832D5D",
+      "person_id": "Q54365315",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q5062068",
+      "area_id": "Q54086346",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53913929",
+      "role": {
+        "lang:zh": "中西區議員",
+        "lang:en": "Central and Western District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7237065-FDFFBC8C-1DC3-4CC1-A2C8-44D91C9C692C",
+      "person_id": "Q7237065",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q5062068",
+      "area_id": "Q54086355",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53913929",
+      "role": {
+        "lang:zh": "中西區議員",
+        "lang:en": "Central and Western District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9441082-1D9343CF-F487-41E0-A04F-31C73D86375B",
+      "person_id": "Q9441082",
+      "organization_id": "Q5062068",
+      "area_id": "Q54086360",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53913929",
+      "role": {
+        "lang:zh": "中西區議員",
+        "lang:en": "Central and Western District councilor"
+      }
+    }
+  ]
+}

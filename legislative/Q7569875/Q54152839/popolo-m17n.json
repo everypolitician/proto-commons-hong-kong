@@ -1,0 +1,240 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "任葆琳",
+        "lang:en": "Pauline Yam"
+      },
+      "id": "Q10884751",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10884751"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100013847927410"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "羅健熙",
+        "lang:en": "Lo Kin-hei"
+      },
+      "id": "Q15635911",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15635911"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/dphk.leitung"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "司馬文",
+        "lang:zh": "司馬文",
+        "lang:en": "Paul Zimmerman"
+      },
+      "id": "Q18228462",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18228462"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/PZpage"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "麥謝巧玲",
+        "lang:en": "Mak Tse How-ling"
+      },
+      "id": "Q23888291",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23888291"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/adamaktsehowling"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "徐遠華",
+        "lang:en": "Tsui Yuen-wa"
+      },
+      "id": "Q54356699",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54356699"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "南區議會",
+        "lang:en": "Southern District Council"
+      },
+      "id": "Q7569875",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7569875"
+        }
+      ],
+      "area_id": "Q986431",
+      "seat_counts": {
+        "Q53914186": "17"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主黨",
+        "lang:zh": "民主黨",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q21892",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21892"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10884751-DC66AE74-44B5-4207-9970-165F25C48430",
+      "person_id": "Q10884751",
+      "organization_id": "Q7569875",
+      "area_id": "Q54084672",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914186",
+      "role": {
+        "lang:zh": "南區議員",
+        "lang:en": "Southern District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15635911-0C758542-231B-4D32-85B9-7F8B7FC4A1AF",
+      "person_id": "Q15635911",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q7569875",
+      "area_id": "Q54084702",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914186",
+      "role": {
+        "lang:zh": "南區議員",
+        "lang:en": "Southern District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18228462-7332D1E6-0CF5-4961-8F3E-B30800A86949",
+      "person_id": "Q18228462",
+      "organization_id": "Q7569875",
+      "area_id": "Q54084773",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914186",
+      "role": {
+        "lang:zh": "南區議員",
+        "lang:en": "Southern District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23888291-1B3FC8CA-10A6-4524-B3F8-B2CD4C00DA74",
+      "person_id": "Q23888291",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q7569875",
+      "area_id": "Q54084759",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914186",
+      "role": {
+        "lang:zh": "南區議員",
+        "lang:en": "Southern District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54356699-6CE07E9F-8FBC-447D-8A38-D06F7EC4A7FA",
+      "person_id": "Q54356699",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q7569875",
+      "area_id": "Q54084685",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914186",
+      "role": {
+        "lang:zh": "南區議員",
+        "lang:en": "Southern District councilor"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "黃何詠詩",
+        "lang:en": "Mrs Susanne WONG, JP"
+      },
+      "id": "Q54541898",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54541898"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "中西區地區管理委員會",
+        "lang:en": "Central and Western District District Management Committees"
+      },
+      "id": "Q54553011",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54553011"
+        }
+      ],
+      "area_id": "Q312485"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54541898-ab750f7c-4bcb-d976-8733-de2b40e03e3b",
+      "person_id": "Q54541898",
+      "organization_id": "Q54553011",
+      "area_id": "Q312485",
+      "role_superclass_code": "Q54478776",
+      "role_superclass": {
+        "lang:zh": "中西區民政事務專員",
+        "lang:en": "district officer of Central and Western District"
+      },
+      "role_code": "Q54478776",
+      "role": {
+        "lang:zh": "中西區民政事務專員",
+        "lang:en": "district officer of Central and Western District"
+      }
+    }
+  ]
+}

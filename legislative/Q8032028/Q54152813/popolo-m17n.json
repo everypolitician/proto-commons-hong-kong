@@ -1,0 +1,240 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "袁國強",
+        "lang:en": "Yuen Kwok-keung"
+      },
+      "id": "Q12205806",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12205806"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "胡志健",
+        "lang:en": "WU Chi Kin"
+      },
+      "id": "Q22101505",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22101505"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100016044948517"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "丁志威",
+        "lang:en": "Ting Chi-wai"
+      },
+      "id": "Q54360316",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54360316"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/丁志威-912831328792108"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "胡志偉",
+        "lang:zh": "胡志偉",
+        "lang:en": "Wu Chi-wai"
+      },
+      "id": "Q8038881",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8038881"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chiwaioffice"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "黃逸旭",
+        "lang:en": "Wong Yat-yuk"
+      },
+      "id": "Q9460302",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9460302"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/WongYatYukRoger"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "黃大仙區議會",
+        "lang:en": "Wong Tai Sin District Council"
+      },
+      "id": "Q8032028",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8032028"
+        }
+      ],
+      "area_id": "Q878503",
+      "seat_counts": {
+        "Q53913812": "25"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主黨",
+        "lang:zh": "民主黨",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q21892",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21892"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12205806-90EF1C69-126E-48BF-9FB9-72B58CB6332D",
+      "person_id": "Q12205806",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q8032028",
+      "area_id": "Q54076646",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53913812",
+      "role": {
+        "lang:zh": "黃大仙區議員",
+        "lang:en": "Wong Tai Sin District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22101505-68B7C2BA-E9D3-413A-9E79-0EF9FEEA9BDF",
+      "person_id": "Q22101505",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q8032028",
+      "area_id": "Q54076490",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53913812",
+      "role": {
+        "lang:zh": "黃大仙區議員",
+        "lang:en": "Wong Tai Sin District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54360316-82DD1759-B64F-4486-9805-E59678A9CC55",
+      "person_id": "Q54360316",
+      "organization_id": "Q8032028",
+      "area_id": "Q54076522",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53913812",
+      "role": {
+        "lang:zh": "黃大仙區議員",
+        "lang:en": "Wong Tai Sin District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8038881-038C5A24-3BB4-4149-8855-48A54E633554",
+      "person_id": "Q8038881",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q8032028",
+      "area_id": "Q54076550",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53913812",
+      "role": {
+        "lang:zh": "黃大仙區議員",
+        "lang:en": "Wong Tai Sin District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9460302-E76937BF-4D62-462B-85A2-D8B4D2E03046",
+      "person_id": "Q9460302",
+      "organization_id": "Q8032028",
+      "area_id": "Q54076858",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53913812",
+      "role": {
+        "lang:zh": "黃大仙區議員",
+        "lang:en": "Wong Tai Sin District councilor"
+      }
+    }
+  ]
+}

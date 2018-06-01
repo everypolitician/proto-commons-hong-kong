@@ -1,0 +1,258 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "黃達東",
+        "lang:en": "Wong Tat-tung"
+      },
+      "id": "Q22100401",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22100401"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/wttdennis"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "楊彧",
+        "lang:en": "Yeung Yuk"
+      },
+      "id": "Q54357871",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54357871"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/hoilai.yuk"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "甄啟榮",
+        "lang:en": "Yan Kai-wing"
+      },
+      "id": "Q54359116",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54359116"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100010828507513"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "衞煥南",
+        "lang:en": "Wai Woon-nam"
+      },
+      "id": "Q54359203",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54359203"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/衞煥南區議員-1457505704548239"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "袁海文",
+        "lang:en": "Ramon YUEN Hoi-man"
+      },
+      "id": "Q9082247",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9082247"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/yuenhoiman"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "深水埗區議會",
+        "lang:en": "Sham Shui Po District Council"
+      },
+      "id": "Q7487362",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7487362"
+        }
+      ],
+      "area_id": "Q655626",
+      "seat_counts": {
+        "Q53915061": "23"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主黨",
+        "lang:zh": "民主黨",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q21892",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21892"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "民主建港協進聯盟",
+        "lang:zh": "民主建港協進聯盟",
+        "lang:en": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "id": "Q21916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21916"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "香港民主民生協進會",
+        "lang:zh": "香港民主民生協進會",
+        "lang:en": "Association for Democracy and People's Livelihood"
+      },
+      "id": "Q837695",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q837695"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22100401-C88FFB6C-CA12-47D4-96F0-3D0637548B13",
+      "person_id": "Q22100401",
+      "on_behalf_of_id": "Q21916",
+      "organization_id": "Q7487362",
+      "area_id": "Q54083663",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53915061",
+      "role": {
+        "lang:zh": "深水埗區議員",
+        "lang:en": "Sham Shui Po District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54357871-053F351E-9E28-4751-8DF4-DCEC9637295C",
+      "person_id": "Q54357871",
+      "on_behalf_of_id": "Q837695",
+      "organization_id": "Q7487362",
+      "area_id": "Q54083370",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53915061",
+      "role": {
+        "lang:zh": "深水埗區議員",
+        "lang:en": "Sham Shui Po District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54359116-C446F77A-2128-475A-AB81-FB66FE60CDC7",
+      "person_id": "Q54359116",
+      "organization_id": "Q7487362",
+      "area_id": "Q54083520",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53915061",
+      "role": {
+        "lang:zh": "深水埗區議員",
+        "lang:en": "Sham Shui Po District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54359203-98F90961-C963-46C5-9928-5592B59DA974",
+      "person_id": "Q54359203",
+      "on_behalf_of_id": "Q837695",
+      "organization_id": "Q7487362",
+      "area_id": "Q54083390",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53915061",
+      "role": {
+        "lang:zh": "深水埗區議員",
+        "lang:en": "Sham Shui Po District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9082247-59019BAA-2572-40A7-B237-4787734E63ED",
+      "person_id": "Q9082247",
+      "on_behalf_of_id": "Q21892",
+      "organization_id": "Q7487362",
+      "area_id": "Q54083568",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53915061",
+      "role": {
+        "lang:zh": "深水埗區議員",
+        "lang:en": "Sham Shui Po District councilor"
+      }
+    }
+  ]
+}

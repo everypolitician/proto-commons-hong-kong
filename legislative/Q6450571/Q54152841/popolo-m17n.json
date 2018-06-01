@@ -1,0 +1,203 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh": "黃子健",
+        "lang:en": "Wong Chi Ken"
+      },
+      "id": "Q28412125",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28412125"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/kenlokwah"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "姚柏良",
+        "lang:en": "Yiu Pak-leung"
+      },
+      "id": "Q54355577",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54355577"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/perryyiu.office"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "葉興國",
+        "lang:en": "Yip Hing-kwok"
+      },
+      "id": "Q54357753",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54357753"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "謝淑珍",
+        "lang:en": "Tse Suk-chun"
+      },
+      "id": "Q54357814",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54357814"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "黃春平",
+        "lang:en": "Huang Chun Ping"
+      },
+      "id": "Q7186630",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7186630"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/huang.c.ping.3"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh": "觀塘區議會",
+        "lang:en": "Kwun Tong District Council"
+      },
+      "id": "Q6450571",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6450571"
+        }
+      ],
+      "area_id": "Q875773",
+      "seat_counts": {
+        "Q53914657": "37"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28412125-6A1E54A5-FCED-43CD-90E4-BE48A18DF726",
+      "person_id": "Q28412125",
+      "organization_id": "Q6450571",
+      "area_id": "Q54085101",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914657",
+      "role": {
+        "lang:zh": "觀塘區議員",
+        "lang:en": "Kwun Tong District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54355577-9033AB11-4D3C-432B-B450-8A0AF4E3CF5D",
+      "person_id": "Q54355577",
+      "organization_id": "Q6450571",
+      "area_id": "Q54085225",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914657",
+      "role": {
+        "lang:zh": "觀塘區議員",
+        "lang:en": "Kwun Tong District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54357753-53BC4E1A-5D04-483C-A732-0A0FE02D7C30",
+      "person_id": "Q54357753",
+      "organization_id": "Q6450571",
+      "area_id": "Q54085523",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914657",
+      "role": {
+        "lang:zh": "觀塘區議員",
+        "lang:en": "Kwun Tong District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54357814-19C57275-FDD3-4CCF-81C3-716B7FB9ABCA",
+      "person_id": "Q54357814",
+      "organization_id": "Q6450571",
+      "area_id": "Q54085459",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914657",
+      "role": {
+        "lang:zh": "觀塘區議員",
+        "lang:en": "Kwun Tong District councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7186630-7A22FC7E-87F1-4ADF-9BCC-39F6C0221E80",
+      "person_id": "Q7186630",
+      "organization_id": "Q6450571",
+      "area_id": "Q54085759",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53914657",
+      "role": {
+        "lang:zh": "觀塘區議員",
+        "lang:en": "Kwun Tong District councilor"
+      }
+    }
+  ]
+}
