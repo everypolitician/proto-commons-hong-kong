@@ -10,6 +10,46 @@
     ]
   },
   {
+    "comment": "Tai Po District District Management Committees",
+    "executive_item_id": "Q54552994",
+    "positions": [
+      {
+        "comment": "district officer of Tai Po District",
+        "position_item_id": "Q54479094"
+      }
+    ]
+  },
+  {
+    "comment": "Sai Kung District District Management Committees",
+    "executive_item_id": "Q54553001",
+    "positions": [
+      {
+        "comment": "district officer of Sai Kung District",
+        "position_item_id": "Q54479009"
+      }
+    ]
+  },
+  {
+    "comment": "Tsuen Wan District District Management Committees",
+    "executive_item_id": "Q54553006",
+    "positions": [
+      {
+        "comment": "district officer of Tsuen Wan District",
+        "position_item_id": "Q54478845"
+      }
+    ]
+  },
+  {
+    "comment": "Sha Tin District District Management Committees",
+    "executive_item_id": "Q54553008",
+    "positions": [
+      {
+        "comment": "district officer of Sha Tin District",
+        "position_item_id": "Q54478911"
+      }
+    ]
+  },
+  {
     "comment": "Central and Western District District Management Committees",
     "executive_item_id": "Q54553011",
     "positions": [
@@ -60,6 +100,16 @@
     ]
   },
   {
+    "comment": "North District District Management Committees",
+    "executive_item_id": "Q54553020",
+    "positions": [
+      {
+        "comment": "district officer of North District",
+        "position_item_id": "Q54479126"
+      }
+    ]
+  },
+  {
     "comment": "Southern District District Management Committees",
     "executive_item_id": "Q54553022",
     "positions": [
@@ -70,12 +120,72 @@
     ]
   },
   {
+    "comment": "Wan Chai District District Management Committees",
+    "executive_item_id": "Q54553024",
+    "positions": [
+      {
+        "comment": "district officer of Wan Chai District",
+        "position_item_id": "Q54478875"
+      }
+    ]
+  },
+  {
+    "comment": "Yuen Long District District Management Committees",
+    "executive_item_id": "Q54553028",
+    "positions": [
+      {
+        "comment": "district officer of Yuen Long District",
+        "position_item_id": "Q54478750"
+      }
+    ]
+  },
+  {
+    "comment": "Kowloon City District District Management Committees",
+    "executive_item_id": "Q54553032",
+    "positions": [
+      {
+        "comment": "district officer of Kowloon City District",
+        "position_item_id": "Q54478707"
+      }
+    ]
+  },
+  {
+    "comment": "Kwai Tsing District District Management Committees",
+    "executive_item_id": "Q54553039",
+    "positions": [
+      {
+        "comment": "district officer of Kwai Tsing District",
+        "position_item_id": "Q54479189"
+      }
+    ]
+  },
+  {
     "comment": "Wong Tai Sin District District Management Committees",
     "executive_item_id": "Q54553042",
     "positions": [
       {
         "comment": "district officer of Wong Tai Sin District",
         "position_item_id": "Q54478811"
+      }
+    ]
+  },
+  {
+    "comment": "Yau Tsim Mong District District Management Committees",
+    "executive_item_id": "Q54553043",
+    "positions": [
+      {
+        "comment": "district officer of Yau Tsim Mong District",
+        "position_item_id": "Q54478722"
+      }
+    ]
+  },
+  {
+    "comment": "Islands District District Management Committees",
+    "executive_item_id": "Q54553045",
+    "positions": [
+      {
+        "comment": "district officer of Islands District",
+        "position_item_id": "Q54479223"
       }
     ]
   }

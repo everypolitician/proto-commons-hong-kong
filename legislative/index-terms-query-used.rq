@@ -4,7 +4,7 @@ SELECT DISTINCT
   ?term ?termLabel
   ?termStart ?termEnd
 WHERE {
-  VALUES ?house { wd:Q19208 wd:Q5062068 wd:Q5330109 wd:Q6450571 wd:Q7487362 wd:Q7569875 wd:Q7851385 wd:Q8032028 }
+  VALUES ?house { wd:Q19208 wd:Q11108949 wd:Q5062068 wd:Q5330109 wd:Q6083714 wd:Q6435041 wd:Q6449990 wd:Q6450571 wd:Q7055133 wd:Q7399798 wd:Q7459870 wd:Q7487362 wd:Q7569875 wd:Q7675803 wd:Q7849939 wd:Q7851385 wd:Q7966980 wd:Q8032028 wd:Q8060283 }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
       OPTIONAL { ?subTerm wdt:P31 ?baseTerm }

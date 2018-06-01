@@ -11,6 +11,17 @@
     ]
   },
   {
+    "comment": "Yau Tsim Mong District Council",
+    "house_item_id": "Q11108949",
+    "position_item_id": "Q53914332",
+    "terms": [
+      {
+        "comment": "5th Councilor in Yau Tsim Mong District",
+        "term_item_id": "Q54152832"
+      }
+    ]
+  },
+  {
     "comment": "Central and Western District Council",
     "house_item_id": "Q5062068",
     "position_item_id": "Q53913929",
@@ -33,6 +44,39 @@
     ]
   },
   {
+    "comment": "Islands District Council",
+    "house_item_id": "Q6083714",
+    "position_item_id": "Q53914994",
+    "terms": [
+      {
+        "comment": "5th Councilor in Islands District",
+        "term_item_id": "Q54152837"
+      }
+    ]
+  },
+  {
+    "comment": "Kowloon City District Council",
+    "house_item_id": "Q6435041",
+    "position_item_id": "Q53913696",
+    "terms": [
+      {
+        "comment": "5th Councilor in Kowloon City District",
+        "term_item_id": "Q54152822"
+      }
+    ]
+  },
+  {
+    "comment": "Kwai Tsing District Council",
+    "house_item_id": "Q6449990",
+    "position_item_id": "Q53914373",
+    "terms": [
+      {
+        "comment": "5th Councilor in Kwai Tsing District",
+        "term_item_id": "Q54152823"
+      }
+    ]
+  },
+  {
     "comment": "Kwun Tong District Council",
     "house_item_id": "Q6450571",
     "position_item_id": "Q53914657",
@@ -40,6 +84,39 @@
       {
         "comment": "5th Councilor in Kwun Tong District",
         "term_item_id": "Q54152841"
+      }
+    ]
+  },
+  {
+    "comment": "North District Council",
+    "house_item_id": "Q7055133",
+    "position_item_id": "Q53914891",
+    "terms": [
+      {
+        "comment": "5th Councilor in North District",
+        "term_item_id": "Q54152820"
+      }
+    ]
+  },
+  {
+    "comment": "Sai Kung District Council",
+    "house_item_id": "Q7399798",
+    "position_item_id": "Q53914586",
+    "terms": [
+      {
+        "comment": "5th Councilor in Sai Kung District",
+        "term_item_id": "Q54152825"
+      }
+    ]
+  },
+  {
+    "comment": "Sha Tin District Council",
+    "house_item_id": "Q7459870",
+    "position_item_id": "Q53914481",
+    "terms": [
+      {
+        "comment": "5th Councilor in Sha Tin District",
+        "term_item_id": "Q54152834"
       }
     ]
   },
@@ -66,6 +143,28 @@
     ]
   },
   {
+    "comment": "Tai Po District Council",
+    "house_item_id": "Q7675803",
+    "position_item_id": "Q53914098",
+    "terms": [
+      {
+        "comment": "5th Councilor in Tai Po District",
+        "term_item_id": "Q54152836"
+      }
+    ]
+  },
+  {
+    "comment": "Tsuen Wan District Council",
+    "house_item_id": "Q7849939",
+    "position_item_id": "Q53914050",
+    "terms": [
+      {
+        "comment": "5th Councilor in Tsuen Wan District",
+        "term_item_id": "Q54152830"
+      }
+    ]
+  },
+  {
     "comment": "Tuen Mun District Council",
     "house_item_id": "Q7851385",
     "position_item_id": "Q53914946",
@@ -77,6 +176,17 @@
     ]
   },
   {
+    "comment": "Wan Chai District Council",
+    "house_item_id": "Q7966980",
+    "position_item_id": "Q53914433",
+    "terms": [
+      {
+        "comment": "5th Councilor in Wan Chai District",
+        "term_item_id": "Q54152826"
+      }
+    ]
+  },
+  {
     "comment": "Wong Tai Sin District Council",
     "house_item_id": "Q8032028",
     "position_item_id": "Q53913812",
@@ -84,6 +194,17 @@
       {
         "comment": "5th Councilor in Wong Tai Sin District",
         "term_item_id": "Q54152813"
+      }
+    ]
+  },
+  {
+    "comment": "Yuen Long District Council",
+    "house_item_id": "Q8060283",
+    "position_item_id": "Q53914827",
+    "terms": [
+      {
+        "comment": "5th Councilor in Yuen Long District",
+        "term_item_id": "Q54152827"
       }
     ]
   }
