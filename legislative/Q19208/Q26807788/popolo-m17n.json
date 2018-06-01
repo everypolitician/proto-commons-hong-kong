@@ -210,7 +210,162 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q10879608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/legislative-council-constituency:lc3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10879608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "地區選區",
+        "lang:zh": "地區選區",
+        "lang:en": "geographical constituency"
+      },
+      "name": {
+        "lang:zh": "九龍東",
+        "lang:en": "Kowloon East"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q10879625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/legislative-council-constituency:lc2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10879625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "地區選區",
+        "lang:zh": "地區選區",
+        "lang:en": "geographical constituency"
+      },
+      "name": {
+        "lang:zh": "九龍西",
+        "lang:en": "Kowloon West"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q1099862",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/legislative-council-constituency:lc4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1099862"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "地區選區",
+        "lang:zh": "地區選區",
+        "lang:en": "geographical constituency"
+      },
+      "name": {
+        "lang:zh": "新界西",
+        "lang:en": "New Territories West"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q11083612",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/legislative-council-constituency:lc5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11083612"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "地區選區",
+        "lang:zh": "地區選區",
+        "lang:en": "geographical constituency"
+      },
+      "name": {
+        "lang:zh": "新界東",
+        "lang:en": "New Territories East"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/legislative-council-constituency:lc1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "地區選區",
+        "lang:zh": "地區選區",
+        "lang:en": "geographical constituency"
+      },
+      "name": {
+        "lang:zh": "香港島",
+        "lang:en": "Hong Kong Island"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

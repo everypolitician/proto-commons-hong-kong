@@ -1,9 +1,5 @@
-WARNING: Position 立法會議員 (Q27908372) not in boundary associated_wikidata_positions
 WARNING: the district 區議會（第二） (Q5283291) wasn't found in the boundary data for position 立法會議員 (Q27908372)
 WARNING: the district 區議會（第二） (Q5283291) wasn't found in the boundary data for position 立法會議員 (Q27908372)
-WARNING: the district 香港島 (Q3248921) wasn't found in the boundary data for position 立法會議員 (Q27908372)
-WARNING: the district 新界西 (Q1099862) wasn't found in the boundary data for position 立法會議員 (Q27908372)
-WARNING: the district 香港島 (Q3248921) wasn't found in the boundary data for position 立法會議員 (Q27908372)
 WARNING: Position 中西區議員 (Q53913929) not in boundary associated_wikidata_positions
 WARNING: the district 中西區中環區議員選區 (Q54086345) wasn't found in the boundary data for position 中西區議員 (Q53913929)
 WARNING: the district 中西區上環區議員選區 (Q54086364) wasn't found in the boundary data for position 中西區議員 (Q53913929)
