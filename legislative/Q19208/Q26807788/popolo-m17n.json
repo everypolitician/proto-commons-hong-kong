@@ -315,6 +315,162 @@
       "parent_id": "Q8646"
     },
     {
+      "id": "Q3248609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:commercial-first"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "商界（第一）",
+        "lang:en": "Commercial (First)"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:industrial-second"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "工業界（第二）",
+        "lang:en": "Industrial (Second)"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:legal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "法律界",
+        "lang:en": "Legal"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248751",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:industrial-first"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248751"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "工業界（第一）",
+        "lang:en": "Industrial (First)"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248767",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:education"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248767"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "教育界",
+        "lang:en": "Education"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:commercial-second"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "商界（第二）",
+        "lang:en": "Commercial (Second)"
+      },
+      "parent_id": "Q8646"
+    },
+    {
       "id": "Q3248921",
       "identifiers": [
         {
@@ -337,6 +493,604 @@
       "name": {
         "lang:zh": "香港島",
         "lang:en": "Hong Kong Island"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:heung-yee-kuk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "鄉議局",
+        "lang:en": "Heung Yee Kuk"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:insurance-functional-constituency"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "保險界",
+        "lang:en": "Insurance functional constituency"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:agriculture-and-fisheries"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "漁農界",
+        "lang:en": "Agriculture and Fisheries"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:medical"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "醫學界",
+        "lang:en": "Medical"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:finance"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "金融界",
+        "lang:en": "Finance"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3248982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:transport"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3248982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "航運交通界",
+        "lang:en": "Transport"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3249071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:social-welfare"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3249071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "社會福利界",
+        "lang:en": "Social Welfare"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q3249080",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:architectural-surveying-and-planning"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3249080"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "建築、測量及都市規劃界",
+        "lang:en": "Architectural, Surveying and Planning"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q4672761",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:accountancy"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4672761"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "會計界",
+        "lang:en": "Accountancy"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q5051926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:catering"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5051926"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "飲食界",
+        "lang:en": "Catering"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q5283289",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:district-council-first"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5283289"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "區議會（第一）",
+        "lang:en": "District Council (First)"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q5283291",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:district-council-second"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5283291"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "區議會（第二）",
+        "lang:en": "District Council (Second)"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q5301966",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:health-services"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5301966"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "衛生服務界",
+        "lang:en": "Health Services"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q5377807",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:engineering-constituency"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5377807"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "工程界功能界別",
+        "lang:en": "Engineering (constituency)"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q5449654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:financial-services"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5449654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "金融服務界",
+        "lang:en": "Financial Services"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q6007397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:import-and-export"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6007397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "進出口界",
+        "lang:en": "Import and Export"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q6030879",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:information-technology"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6030879"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "資訊科技界",
+        "lang:en": "Information Technology"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q6467372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:labour"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6467372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "勞工界",
+        "lang:en": "Labour"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q7300911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:real-estate-and-construction"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7300911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "地產及建造界",
+        "lang:en": "Real Estate and Construction"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q7579643",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:sports-performing-arts-culture-and-publication"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7579643"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "體育、演藝、文化及出版界",
+        "lang:en": "Sports, Performing Arts, Culture and Publication"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q7708490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:textiles-and-garment"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7708490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "紡織及製衣界功能界別",
+        "lang:en": "Textiles and Garment"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q7829082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:tourism"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7829082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "旅遊界",
+        "lang:en": "Tourism"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q7997580",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/functional-constituency:wholesale-and-retail"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7997580"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27908372"
+      ],
+      "type": {
+        "lang:zh-hk": "功能界別 (香港)",
+        "lang:zh": "功能界別 (香港)",
+        "lang:en": "functional constituency of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "批發及零售界",
+        "lang:en": "Wholesale and Retail"
       },
       "parent_id": "Q8646"
     },

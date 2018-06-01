@@ -1,5 +1,3 @@
-WARNING: the district 區議會（第二） (Q5283291) wasn't found in the boundary data for position 立法會議員 (Q27908372)
-WARNING: the district 區議會（第二） (Q5283291) wasn't found in the boundary data for position 立法會議員 (Q27908372)
 WARNING: the district 離島區當然議員 (Q54082491) wasn't found in the boundary data for position 離島區議員 (Q53914994)
 WARNING: the district 離島區當然議員 (Q54082491) wasn't found in the boundary data for position 離島區議員 (Q53914994)
 WARNING: the district 離島區當然議員 (Q54082491) wasn't found in the boundary data for position 離島區議員 (Q53914994)
