@@ -152,7 +152,783 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54084110",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:greenfield"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084110"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "翠怡",
+        "lang:en": "Greenfield"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:upper-tai-wo-hau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084132"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "上大窩口",
+        "lang:en": "Upper Tai Wo Hau"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:ching-fat"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "青發",
+        "lang:en": "Ching Fat"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:shek-lei-norh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "石籬北",
+        "lang:en": "Shek Lei Norh"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:lai-wah"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "荔華",
+        "lang:en": "Lai Wah"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:shing-hong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "盛康",
+        "lang:en": "Shing Hong"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:on-yam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "安蔭",
+        "lang:en": "On Yam"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:cheung-hong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "長康",
+        "lang:en": "Cheung Hong"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:cheung-on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "長安",
+        "lang:en": "Cheung On"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084291",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:kwai-shing-west-estate"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084291"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "葵盛西邨",
+        "lang:en": "Kwai Shing West Estate"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:kwai-chung-estate-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "葵涌邨北",
+        "lang:en": "Kwai Chung Estate North"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:kwai-fong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "葵芳",
+        "lang:en": "Kwai Fong"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:kwai-chung-estate-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "葵涌邨南",
+        "lang:en": "Kwai Chung Estate South"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:tai-pak-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "大白田",
+        "lang:en": "Tai Pak Tin"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:lai-king"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "荔景",
+        "lang:en": "Lai King"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:wah-lai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "華麗",
+        "lang:en": "Wah Lai"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:kwai-shing-east-estate"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "葵盛東邨",
+        "lang:en": "Kwai Shing East Estate"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:cheung-hang"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "長亨",
+        "lang:en": "Cheung Hang"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:wai-ying"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "偉盈",
+        "lang:en": "Wai Ying"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:shek-yam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "石蔭",
+        "lang:en": "Shek Yam"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:lower-tai-wo-hau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "下大窩口",
+        "lang:en": "Lower Tai Wo Hau"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:shek-lei-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "石籬南",
+        "lang:en": "Shek Lei South"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084441",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:hing-fong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084441"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "興芳",
+        "lang:en": "Hing Fong"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:cho-yiu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "祖堯",
+        "lang:en": "Cho Yiu"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:kwai-hing"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "葵興",
+        "lang:en": "Kwai Hing"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:cheung-ching"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "長青",
+        "lang:en": "Cheung Ching"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:tsing-yi-estate"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "青衣邨",
+        "lang:en": "Tsing Yi Estate"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:on-ho"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "安灝",
+        "lang:en": "On Ho"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q54084449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing/constituency:tsing-yi-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084449"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914373"
+      ],
+      "type": {
+        "lang:zh": "葵青區區議員選區",
+        "lang:en": "Council Constituency of Kwai Tsing District"
+      },
+      "name": {
+        "lang:zh": "青衣南",
+        "lang:en": "Tsing Yi South"
+      },
+      "parent_id": "Q877132"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q877132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwai-tsing"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q877132"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54479189"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "葵青",
+        "lang:en": "Kwai Tsing"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
     {

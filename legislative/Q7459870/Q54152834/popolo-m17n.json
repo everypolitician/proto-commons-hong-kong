@@ -157,7 +157,1008 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q15019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54478911"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "沙田",
+        "lang:en": "Sha Tin"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q54086277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:pok-hong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "博康",
+        "lang:en": "Pok Hong"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:lek-yuen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "瀝源",
+        "lang:en": "Lek Yuen"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:sha-kok"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "沙角",
+        "lang:en": "Sha Kok"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:chun-ma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "駿馬",
+        "lang:en": "Chun Ma"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:tai-wai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "大圍",
+        "lang:en": "Tai Wai"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:wan-shing"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "雲城",
+        "lang:en": "Wan Shing"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:wu-kai-sha"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "烏溪沙",
+        "lang:en": "Wu Kai Sha"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:chun-fung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "秦豐",
+        "lang:en": "Chun Fung"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:fo-tan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "火炭",
+        "lang:en": "Fo Tan"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086289",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:chui-ka"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086289"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "翠嘉",
+        "lang:en": "Chui Ka"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086291",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:sui-wo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086291"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "穗禾",
+        "lang:en": "Sui Wo"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:lower-shing-mun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "下城門",
+        "lang:en": "Lower Shing Mun"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086294",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:kam-ying"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086294"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "錦英",
+        "lang:en": "Kam Ying"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:hin-ka"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086297"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "顯嘉",
+        "lang:en": "Hin Ka"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:tin-sum"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "田心",
+        "lang:en": "Tin Sum"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086300",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:fu-lung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086300"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "富龍",
+        "lang:en": "Fu Lung"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:kam-to"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086303"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "錦濤",
+        "lang:en": "Kam To"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:chung-on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "頌安",
+        "lang:en": "Chung On"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:yue-shing"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086310"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "愉城",
+        "lang:en": "Yue Shing"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:jat-min"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "乙明",
+        "lang:en": "Jat Min"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:chung-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "松田",
+        "lang:en": "Chung Tin"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:lee-on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "利安",
+        "lang:en": "Lee On"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:yu-yan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "愉欣",
+        "lang:en": "Yu Yan"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:bik-woo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "碧湖",
+        "lang:en": "Bik Woo"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:on-tai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "鞍泰",
+        "lang:en": "On Tai"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:yiu-on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "耀安",
+        "lang:en": "Yiu On"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:kwong-hong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "廣康",
+        "lang:en": "Kwong Hong"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:wo-che-estate"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "禾輋邨",
+        "lang:en": "Wo Che Estate"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:tai-shui-hang"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "大水坑",
+        "lang:en": "Tai Shui Hang"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086331",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:keng-hau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086331"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "徑口",
+        "lang:en": "Keng Hau"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086332",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:ma-on-shan-town-centre"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086332"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "馬鞍山市中心",
+        "lang:en": "Ma On Shan Town Centre"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:chui-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "翠田",
+        "lang:en": "Chui Tin"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:city-one"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086336"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "第一城",
+        "lang:en": "City One"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:heng-on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "恒安",
+        "lang:en": "Heng On"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086339",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:sun-tin-wai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086339"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "新田圍",
+        "lang:en": "Sun Tin Wai"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:sha-tin-town-centre"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "沙田市中心",
+        "lang:en": "Sha Tin Town Centre"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086341",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:kwong-yuen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086341"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "廣源",
+        "lang:en": "Kwong Yuen"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q54086342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sha-tin/constituency:wong-uk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914481"
+      ],
+      "type": {
+        "lang:zh": "沙田區區議員選區",
+        "lang:en": "Council Constituency of Sha Tin District"
+      },
+      "name": {
+        "lang:zh": "王屋",
+        "lang:en": "Wong Uk"
+      },
+      "parent_id": "Q15019"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

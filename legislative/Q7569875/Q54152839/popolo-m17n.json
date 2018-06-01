@@ -145,7 +145,483 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54084672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:aberdeen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "香港仔",
+        "lang:en": "Aberdeen"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:south-horizons-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "海怡東",
+        "lang:en": "South Horizons East"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084685",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:wong-chuk-hang"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084685"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "黃竹坑",
+        "lang:en": "Wong Chuk Hang"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:ap-lei-chau-estate"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "鴨脷洲邨",
+        "lang:en": "Ap Lei Chau Estate"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:shek-yue"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "石漁",
+        "lang:en": "Shek Yue"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:lei-tung-ii"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "利東二",
+        "lang:en": "Lei Tung II"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084710",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:bays-area"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084710"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "海灣",
+        "lang:en": "Bays Area"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:south-horizons-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "海怡西",
+        "lang:en": "South Horizons West"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084724",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:chi-fu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084724"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "置富",
+        "lang:en": "Chi Fu"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:wah-fu-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "華富南",
+        "lang:en": "Wah Fu South"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084742",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:ap-lei-chau-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084742"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "鴨脷洲北",
+        "lang:en": "Ap Lei Chau North"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084751",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:stanley-and-shek-o"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084751"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "赤柱及石澳",
+        "lang:en": "Stanley & Shek O"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:wah-kwai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "華貴",
+        "lang:en": "Wah Kwai"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:tin-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "田灣",
+        "lang:en": "Tin Wan"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:pokfulam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "薄扶林",
+        "lang:en": "Pokfulam"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:wah-fu-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084779"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "華富北",
+        "lang:en": "Wah Fu North"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q54084785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:lei-tung-i"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "利東一",
+        "lang:en": "Lei Tung I"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q986431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q986431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54479040"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "南區",
+        "lang:en": "Southern"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
     {

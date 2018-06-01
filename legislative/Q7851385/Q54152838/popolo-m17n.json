@@ -156,7 +156,783 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54084450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:siu-hong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "兆康",
+        "lang:en": "Siu Hong"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:hanford"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "恆福",
+        "lang:en": "Hanford"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:on-ting"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "安定",
+        "lang:en": "On Ting"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084455",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:fu-tai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084455"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "富泰",
+        "lang:en": "Fu Tai"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084457",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:fu-sun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084457"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "富新",
+        "lang:en": "Fu Sun"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084459",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:lung-mun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084459"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "龍門",
+        "lang:en": "Lung Mun"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:lok-tsui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "樂翠",
+        "lang:en": "Lok Tsui"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:tsui-hing"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "翠興",
+        "lang:en": "Tsui Hing"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:leung-king"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "良景",
+        "lang:en": "Leung King"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:kin-sang"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "建生",
+        "lang:en": "Kin Sang"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:siu-tsui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "兆翠",
+        "lang:en": "Siu Tsui"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:shan-king"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "山景",
+        "lang:en": "Shan King"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:tin-king"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "田景",
+        "lang:en": "Tin King"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:siu-hei"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "兆禧",
+        "lang:en": "Siu Hei"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:wu-king"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "湖景",
+        "lang:en": "Wu King"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:hing-tsak"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "興澤",
+        "lang:en": "Hing Tsak"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:siu-chi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "兆置",
+        "lang:en": "Siu Chi"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:po-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "寶田",
+        "lang:en": "Po Tin"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:tuen-mun-town-centre"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "屯門巿中心",
+        "lang:en": "Tuen Mun Town Centre"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:yau-oi-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "友愛南",
+        "lang:en": "Yau Oi South"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:butterfly"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "蝴蝶",
+        "lang:en": "Butterfly"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:yau-oi-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "友愛北",
+        "lang:en": "Yau Oi North"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084485",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:tuen-mun-rural"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084485"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "屯門鄉郊",
+        "lang:en": "Tuen Mun Rural"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:san-hui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "新墟",
+        "lang:en": "San Hui"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:sam-shing"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "三聖",
+        "lang:en": "Sam Shing"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:prime-view"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "景峰",
+        "lang:en": "Prime View"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:san-king"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "新景",
+        "lang:en": "San King"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:yuet-wu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "悅湖",
+        "lang:en": "Yuet Wu"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q54084491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun/constituency:king-hing"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914946"
+      ],
+      "type": {
+        "lang:zh": "屯門區區議員選區",
+        "lang:en": "Council Constituency of Tuen Mun District"
+      },
+      "name": {
+        "lang:zh": "景興",
+        "lang:en": "King Hing"
+      },
+      "parent_id": "Q986383"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q986383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tuen-mun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q986383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54479158"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "屯門",
+        "lang:en": "Tuen Mun"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
     {

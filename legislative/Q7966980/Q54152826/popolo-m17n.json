@@ -124,7 +124,383 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54084979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:causeway-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "銅鑼灣",
+        "lang:en": "Causeway Bay"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54084988",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:oi-kwan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084988"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "愛群",
+        "lang:en": "Oi Kwan"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54084995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:hennessy"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "軒尼詩",
+        "lang:en": "Hennessy"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54085002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:tai-hang"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "大坑",
+        "lang:en": "Tai Hang"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54085006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:tai-fat-hau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "大佛口",
+        "lang:en": "Tai Fat Hau"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54085011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:jardine's-lookout"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "渣甸山",
+        "lang:en": "Jardine's Lookout"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54085019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:tin-hau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "天后",
+        "lang:en": "Tin Hau"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54085027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:broadwood"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "樂活",
+        "lang:en": "Broadwood"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54085038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:stubbs-road"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085038"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "司徒拔道",
+        "lang:en": "Stubbs Road"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54085047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:victoria-park"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "維園",
+        "lang:en": "Victoria Park"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54085056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:southorn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "修頓",
+        "lang:en": "Southorn"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54085065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:canal-road"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "鵝頸",
+        "lang:en": "Canal Road"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q54085075",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai/constituency:happy-valley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085075"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914433"
+      ],
+      "type": {
+        "lang:zh": "灣仔區區議員選區",
+        "lang:en": "Council Constituency of Wan Chai District"
+      },
+      "name": {
+        "lang:zh": "跑馬地",
+        "lang:en": "Happy Valley"
+      },
+      "parent_id": "Q986434"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q986434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wan-chai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q986434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54478875"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "灣仔",
+        "lang:en": "Wan Chai"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
     {

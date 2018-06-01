@@ -144,7 +144,933 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54085800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:kam-ping"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "錦屏",
+        "lang:en": "Kam Ping"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54085820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:lei-king-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "鯉景灣",
+        "lang:en": "Lei King Wan"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54085838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:tanner"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "丹拿",
+        "lang:en": "Tanner"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54085858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:tsui-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "翠灣",
+        "lang:en": "Tsui Wan"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54085877",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:lok-hong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085877"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "樂康",
+        "lang:en": "Lok Hong"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54085894",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:wan-tsui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085894"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "環翠",
+        "lang:en": "Wan Tsui"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54085911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:braemar-hill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "寶馬山",
+        "lang:en": "Braemar Hill"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54085930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:mount-parker"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "栢架山",
+        "lang:en": "Mount Parker"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54085947",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:upper-yiu-tung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085947"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "上耀東",
+        "lang:en": "Upper Yiu Tung"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54085973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:aldrich-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "愛秩序灣",
+        "lang:en": "Aldrich Bay"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54085995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:hing-man"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "興民",
+        "lang:en": "Hing Man"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:yue-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "漁灣",
+        "lang:en": "Yue Wan"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:yan-lam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "欣藍",
+        "lang:en": "Yan Lam"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:city-garden"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "城市花園",
+        "lang:en": "City Garden"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086075",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:fort-street"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086075"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "堡壘",
+        "lang:en": "Fort Street"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:shaukeiwan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "筲箕灣",
+        "lang:en": "Shaukeiwan"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:quarry-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "鰂魚涌",
+        "lang:en": "Quarry Bay"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:a-kung-ngam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086132"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "阿公岩",
+        "lang:en": "A Kung Ngam"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:lower-yiu-tung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "下耀東",
+        "lang:en": "Lower Yiu Tung"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:healthy-village"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "健康村",
+        "lang:en": "Healthy Village"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:tai-koo-shing-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "太古城西",
+        "lang:en": "Tai Koo Shing West"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:heng-fa-chuen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "杏花邨",
+        "lang:en": "Heng Fa Chuen"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:fortress-hill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "炮台山",
+        "lang:en": "Fortress Hill"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:tai-koo-shing-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "太古城東",
+        "lang:en": "Tai Koo Shing East"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:nam-fung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "南豐",
+        "lang:en": "Nam Fung"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:provident"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "和富",
+        "lang:en": "Provident"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:kornhill-garden"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "康山",
+        "lang:en": "Kornhill Garden"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:hing-tung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "興東",
+        "lang:en": "Hing Tung"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086197",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:king-yee"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086197"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "景怡",
+        "lang:en": "King Yee"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:siu-sai-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "小西灣",
+        "lang:en": "Siu Sai Wan"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:fei-tsui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "翡翠",
+        "lang:en": "Fei Tsui"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:sai-wan-ho"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "西灣河",
+        "lang:en": "Sai Wan Ho"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:kornhill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "康怡",
+        "lang:en": "Kornhill"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54086220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:tsui-tak"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "翠德",
+        "lang:en": "Tsui Tak"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q54154327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern/constituency:kai-hiu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54154327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914229"
+      ],
+      "type": {
+        "lang:zh": "東區區議員選區",
+        "lang:en": "Council Constituency of Eastern District"
+      },
+      "name": {
+        "lang:zh": "佳曉",
+        "lang:en": "Kai Hiu"
+      },
+      "parent_id": "Q727054"
+    },
+    {
+      "id": "Q727054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:eastern"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q727054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54479070"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "東區",
+        "lang:en": "Eastern"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

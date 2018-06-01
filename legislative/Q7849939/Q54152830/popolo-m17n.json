@@ -159,7 +159,508 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54075962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:tsuen-wan-centre"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "荃灣中心",
+        "lang:en": "Tsuen Wan Centre"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54075981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:ma-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "馬灣",
+        "lang:en": "Ma Wan"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54075999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:tsuen-wan-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "荃灣西",
+        "lang:en": "Tsuen Wan West"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:clague-garden"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "祈德尊",
+        "lang:en": "Clague Garden"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:cheung-shek"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "象石",
+        "lang:en": "Cheung Shek"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:yeung-uk-road"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "楊屋道",
+        "lang:en": "Yeung Uk Road"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:lei-muk-shue-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "梨木樹東",
+        "lang:en": "Lei Muk Shue East"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:hoi-bun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "海濱",
+        "lang:en": "Hoi Bun"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:ting-sham"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "汀深",
+        "lang:en": "Ting Sham"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076127",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:shek-wai-kok"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076127"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "石圍角",
+        "lang:en": "Shek Wai Kok"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:lai-to"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "麗濤",
+        "lang:en": "Lai To"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:tak-wah"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "德華",
+        "lang:en": "Tak Wah"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:luk-yeung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "綠楊",
+        "lang:en": "Luk Yeung"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:fuk-loi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "福來",
+        "lang:en": "Fuk Loi"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:lei-muk-shue-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "梨木樹西",
+        "lang:en": "Lei Muk Shue West"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:allway"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "荃威",
+        "lang:en": "Allway"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:discovery-park"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "愉景",
+        "lang:en": "Discovery Park"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q54076282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan/constituency:tsuen-wan-rural"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914050"
+      ],
+      "type": {
+        "lang:zh": "荃灣區區議員選區",
+        "lang:en": "Council Constituency of Tsuen Wan District"
+      },
+      "name": {
+        "lang:zh": "荃灣郊區",
+        "lang:en": "Tsuen Wan Rural"
+      },
+      "parent_id": "Q878514"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q878514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tsuen-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q878514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54478845"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "荃灣",
+        "lang:en": "Tsuen Wan"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
     {

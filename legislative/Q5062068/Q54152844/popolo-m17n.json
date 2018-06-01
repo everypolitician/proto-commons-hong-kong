@@ -147,7 +147,433 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q312485",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q312485"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54478776"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "中西區",
+        "lang:en": "Central & Western"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q54086344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:peak"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "山頂",
+        "lang:en": "Peak"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:chung-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "中環",
+        "lang:en": "Chung Wan"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:castle-road"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "衛城",
+        "lang:en": "Castle Road"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086347",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:kwun-lung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086347"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "觀龍",
+        "lang:en": "Kwun Lung"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:water-street"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "水街",
+        "lang:en": "Water Street"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:university"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "大學",
+        "lang:en": "University"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:kennedy-town-and-mount-davis"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "堅摩",
+        "lang:en": "Kennedy Town & Mount Davis"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:centre-street"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "正街",
+        "lang:en": "Centre Street"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:sai-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086355"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "西環",
+        "lang:en": "Sai Wan"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:shek-tong-tsui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "石塘咀",
+        "lang:en": "Shek Tong Tsui"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:mid-levels-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "半山東",
+        "lang:en": "Mid Levels East"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:sheung-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "上環",
+        "lang:en": "Sheung Wan"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:tung-wah"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "東華",
+        "lang:en": "Tung Wah"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q54086367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:belcher"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "寶翠",
+        "lang:en": "Belcher"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q7399833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:central-and-western/constituency:sai-ying-pun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913929"
+      ],
+      "type": {
+        "lang:zh": "中西區區議員選區",
+        "lang:en": "Council Constituency of Central and Western District"
+      },
+      "name": {
+        "lang:zh": "西營盤",
+        "lang:en": "Sai Ying Pun"
+      },
+      "parent_id": "Q312485"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

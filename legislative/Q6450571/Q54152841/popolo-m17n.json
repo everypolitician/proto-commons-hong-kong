@@ -111,7 +111,983 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54085083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:lai-ching"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "麗晶",
+        "lang:en": "Lai Ching"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085101",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:lok-wah-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085101"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "樂華北",
+        "lang:en": "Lok Wah North"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:kai-yip"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "啟業",
+        "lang:en": "Kai Yip"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:hiu-lai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "曉麗",
+        "lang:en": "Hiu Lai"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:po-tat"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "寶達",
+        "lang:en": "Po Tat"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:sheung-choi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "雙彩",
+        "lang:en": "Sheung Choi"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:shun-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "順天",
+        "lang:en": "Shun Tin"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085214",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:kwong-tak"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085214"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "廣德",
+        "lang:en": "Kwong Tak"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:ping-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "平田",
+        "lang:en": "Ping Tin"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:hong-lok"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "康樂",
+        "lang:en": "Hong Lok"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:ping-shek"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "坪石",
+        "lang:en": "Ping Shek"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:on-lee"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "安利",
+        "lang:en": "On Lee"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:sau-mau-ping-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085303"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "秀茂坪南",
+        "lang:en": "Sau Mau Ping South"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:po-lok"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "寶樂",
+        "lang:en": "Po Lok"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085341",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:king-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085341"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "景田",
+        "lang:en": "King Tin"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:ting-on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "定安",
+        "lang:en": "Ting On"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:kowloon-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085382"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "九龍灣",
+        "lang:en": "Kowloon Bay"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:upper-ngau-tau-kok-estate"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "牛頭角上邨",
+        "lang:en": "Upper Ngau Tau Kok Estate"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085424",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:yau-tong-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085424"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "油塘東",
+        "lang:en": "Yau Tong East"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:pak-nga"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "栢雅",
+        "lang:en": "Pak Nga"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085459",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:chui-cheung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085459"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "翠翔",
+        "lang:en": "Chui Cheung"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:yau-lai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "油麗",
+        "lang:en": "Yau Lai"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:sau-mau-ping-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "秀茂坪中",
+        "lang:en": "Sau Mau Ping Central"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085523",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:to-tai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085523"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "淘大",
+        "lang:en": "To Tai"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085538",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:lok-wah-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085538"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "樂華南",
+        "lang:en": "Lok Wah South"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:tsui-ping"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "翠屏",
+        "lang:en": "Tsui Ping"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:sheung-shun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "雙順",
+        "lang:en": "Sheung Shun"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:hip-hong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "協康",
+        "lang:en": "Hip Hong"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:jordan-valley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "佐敦谷",
+        "lang:en": "Jordan Valley"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:laguna-city"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "麗港城",
+        "lang:en": "Laguna City"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:hing-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "興田",
+        "lang:en": "Hing Tin"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085688",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:kwun-tong-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085688"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "觀塘中心",
+        "lang:en": "Kwun Tong Central"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:yuet-wah"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "月華",
+        "lang:en": "Yuet Wah"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085731",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:lower-ngau-tau-kok-estate"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085731"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "牛頭角下邨",
+        "lang:en": "Lower Ngau Tau Kok Estate"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:yau-tong-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085747"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "油塘西",
+        "lang:en": "Yau Tong West"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:sau-mau-ping-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "秀茂坪北",
+        "lang:en": "Sau Mau Ping North"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q54085775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong/constituency:lam-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54085775"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914657"
+      ],
+      "type": {
+        "lang:zh": "觀塘區區議員選區",
+        "lang:en": "Council Constituency of Kwun Tong District"
+      },
+      "name": {
+        "lang:zh": "藍田",
+        "lang:en": "Lam Tin"
+      },
+      "parent_id": "Q875773"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q875773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kwun-tong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q875773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54478949"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "觀塘",
+        "lang:en": "Kwun Tong"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
     {

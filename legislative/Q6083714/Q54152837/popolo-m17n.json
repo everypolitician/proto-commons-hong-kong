@@ -135,7 +135,308 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54082348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands/constituency:cheung-chau-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54082348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914994"
+      ],
+      "type": {
+        "lang:zh": "離島區區議員選區",
+        "lang:en": "Council Constituency of Islands District"
+      },
+      "name": {
+        "lang:zh": "長洲南",
+        "lang:en": "Cheung Chau South"
+      },
+      "parent_id": "Q752523"
+    },
+    {
+      "id": "Q54082369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands/constituency:yat-tung-estate-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54082369"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914994"
+      ],
+      "type": {
+        "lang:zh": "離島區區議員選區",
+        "lang:en": "Council Constituency of Islands District"
+      },
+      "name": {
+        "lang:zh": "逸東邨北",
+        "lang:en": "Yat Tung Estate North"
+      },
+      "parent_id": "Q752523"
+    },
+    {
+      "id": "Q54082389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands/constituency:discovery-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54082389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914994"
+      ],
+      "type": {
+        "lang:zh": "離島區區議員選區",
+        "lang:en": "Council Constituency of Islands District"
+      },
+      "name": {
+        "lang:zh": "愉景灣",
+        "lang:en": "Discovery Bay"
+      },
+      "parent_id": "Q752523"
+    },
+    {
+      "id": "Q54082412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands/constituency:tung-chung-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54082412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914994"
+      ],
+      "type": {
+        "lang:zh": "離島區區議員選區",
+        "lang:en": "Council Constituency of Islands District"
+      },
+      "name": {
+        "lang:zh": "東涌北",
+        "lang:en": "Tung Chung North"
+      },
+      "parent_id": "Q752523"
+    },
+    {
+      "id": "Q54082434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands/constituency:lamma-and-po-toi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54082434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914994"
+      ],
+      "type": {
+        "lang:zh": "離島區區議員選區",
+        "lang:en": "Council Constituency of Islands District"
+      },
+      "name": {
+        "lang:zh": "南丫及蒲台",
+        "lang:en": "Lamma & Po Toi"
+      },
+      "parent_id": "Q752523"
+    },
+    {
+      "id": "Q54082453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands/constituency:cheung-chau-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54082453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914994"
+      ],
+      "type": {
+        "lang:zh": "離島區區議員選區",
+        "lang:en": "Council Constituency of Islands District"
+      },
+      "name": {
+        "lang:zh": "長洲北",
+        "lang:en": "Cheung Chau North"
+      },
+      "parent_id": "Q752523"
+    },
+    {
+      "id": "Q54082471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands/constituency:tung-chung-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54082471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914994"
+      ],
+      "type": {
+        "lang:zh": "離島區區議員選區",
+        "lang:en": "Council Constituency of Islands District"
+      },
+      "name": {
+        "lang:zh": "東涌南",
+        "lang:en": "Tung Chung South"
+      },
+      "parent_id": "Q752523"
+    },
+    {
+      "id": "Q54082512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands/constituency:lantau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54082512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914994"
+      ],
+      "type": {
+        "lang:zh": "離島區區議員選區",
+        "lang:en": "Council Constituency of Islands District"
+      },
+      "name": {
+        "lang:zh": "大嶼山",
+        "lang:en": "Lantau"
+      },
+      "parent_id": "Q752523"
+    },
+    {
+      "id": "Q54082531",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands/constituency:peng-chau-and-hei-ling-chau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54082531"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914994"
+      ],
+      "type": {
+        "lang:zh": "離島區區議員選區",
+        "lang:en": "Council Constituency of Islands District"
+      },
+      "name": {
+        "lang:zh": "坪洲及喜靈洲",
+        "lang:en": "Peng Chau & Hei Ling Chau"
+      },
+      "parent_id": "Q752523"
+    },
+    {
+      "id": "Q54082549",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands/constituency:yat-tung-estate-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54082549"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914994"
+      ],
+      "type": {
+        "lang:zh": "離島區區議員選區",
+        "lang:en": "Council Constituency of Islands District"
+      },
+      "name": {
+        "lang:zh": "逸東邨南",
+        "lang:en": "Yat Tung Estate South"
+      },
+      "parent_id": "Q752523"
+    },
+    {
+      "id": "Q752523",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:islands"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q752523"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54479223"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "離島",
+        "lang:en": "Islands"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

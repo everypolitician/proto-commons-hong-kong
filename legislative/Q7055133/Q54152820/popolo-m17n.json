@@ -135,7 +135,508 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54083756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:wah-do"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "華都",
+        "lang:en": "Wah Do"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:shing-fuk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083775"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "盛福",
+        "lang:en": "Shing Fuk"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:fanling-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "粉嶺南",
+        "lang:en": "Fanling South"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083828",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:shek-wu-hui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083828"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "石湖墟",
+        "lang:en": "Shek Wu Hui"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:tin-ping-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "天平東",
+        "lang:en": "Tin Ping East"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:tin-ping-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "天平西",
+        "lang:en": "Tin Ping West"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083879",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:fung-tsui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083879"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "鳳翠",
+        "lang:en": "Fung Tsui"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083902",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:choi-yuen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083902"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "彩園",
+        "lang:en": "Choi Yuen"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:sheung-shui-rural"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "上水鄉郊",
+        "lang:en": "Sheung Shui Rural"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:yan-shing"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "欣盛",
+        "lang:en": "Yan Shing"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:cheung-wah"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "祥華",
+        "lang:en": "Cheung Wah"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:queen's-hill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "皇后山",
+        "lang:en": "Queen's Hill"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54083995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:luen-wo-hui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "聯和墟",
+        "lang:en": "Luen Wo Hui"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54084006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:yu-tai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "御太",
+        "lang:en": "Yu Tai"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54084023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:wah-ming"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "華明",
+        "lang:en": "Wah Ming"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54084041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:fanling-town"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "粉嶺市",
+        "lang:en": "Fanling Town"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54084064",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:ching-ho"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084064"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "清河",
+        "lang:en": "Ching Ho"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q54084087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north/constituency:sha-ta"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914891"
+      ],
+      "type": {
+        "lang:zh": "北區區議員選區",
+        "lang:en": "Council Constituency of North District"
+      },
+      "name": {
+        "lang:zh": "沙打",
+        "lang:en": "Sha Ta"
+      },
+      "parent_id": "Q868032"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q868032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q868032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54479126"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "北區",
+        "lang:en": "North"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
     {

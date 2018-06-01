@@ -173,7 +173,533 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q157669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q157669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54478722"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "油尖旺",
+        "lang:en": "Yau Tsim Mong"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q54074751",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:cherry"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074751"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "櫻桃",
+        "lang:en": "Cherry"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:yau-ma-tei-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "油麻地南",
+        "lang:en": "Yau Ma Tei South"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:mong-kok-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "旺角東",
+        "lang:en": "Mong Kok East"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:mong-kok-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "旺角南",
+        "lang:en": "Mong Kok South"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074836",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:tai-kok-tsui-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074836"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "大角咀北",
+        "lang:en": "Tai Kok Tsui North"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:yau-ma-tei-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "油麻地北",
+        "lang:en": "Yau Ma Tei North"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:jordan-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "佐敦西",
+        "lang:en": "Jordan West"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074907",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:east-tsim-sha-tsui-and-king's-park"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074907"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "尖東及京士柏",
+        "lang:en": "East Tsim Sha Tsui & King's Park"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074925",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:mong-kok-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074925"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "旺角西",
+        "lang:en": "Mong Kok West"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:charming"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "富榮",
+        "lang:en": "Charming"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:mong-kok-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "旺角北",
+        "lang:en": "Mong Kok North"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074963",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:tai-kok-tsui-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074963"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "大角咀南",
+        "lang:en": "Tai Kok Tsui South"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:jordan-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "佐敦南",
+        "lang:en": "Jordan South"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54074990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:fu-pak"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54074990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "富柏",
+        "lang:en": "Fu Pak"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54075003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:tsim-sha-tsui-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "尖沙咀中",
+        "lang:en": "Tsim Sha Tsui Central"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54075019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:tsim-sha-tsui-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "尖沙咀西",
+        "lang:en": "Tsim Sha Tsui West"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54075020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:jordan-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "佐敦北",
+        "lang:en": "Jordan North"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54075022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:olympic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "奧運",
+        "lang:en": "Olympic"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q54075023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:yau-tsim-mong/constituency:tai-nan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914332"
+      ],
+      "type": {
+        "lang:zh": "油尖旺區區議員選區",
+        "lang:en": "Council Constituency of Yau Tsim Mong District"
+      },
+      "name": {
+        "lang:zh": "大南",
+        "lang:en": "Tai Nan"
+      },
+      "parent_id": "Q157669"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

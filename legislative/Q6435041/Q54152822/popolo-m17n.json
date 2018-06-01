@@ -129,7 +129,658 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54084492",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:prince"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084492"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "太子",
+        "lang:en": "Prince"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:whampoa-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "黃埔西",
+        "lang:en": "Whampoa West"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:oi-man"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "愛民",
+        "lang:en": "Oi Man"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:hok-yuen-laguna-verde"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "鶴園海逸",
+        "lang:en": "Hok Yuen Laguna Verde"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:lok-man"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "樂民",
+        "lang:en": "Lok Man"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:kai-tak-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084526"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "啟德北",
+        "lang:en": "Kai Tak North"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084534",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:ka-wai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084534"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "家維",
+        "lang:en": "Ka Wai"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:ma-tau-kok"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "馬頭角",
+        "lang:en": "Ma Tau Kok"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084549",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:kowloon-tong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084549"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "九龍塘",
+        "lang:en": "Kowloon Tong"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084555",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:to-kwa-wan-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084555"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "土瓜灣北",
+        "lang:en": "To Kwa Wan North"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:hung-hom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "紅磡",
+        "lang:en": "Hung Hom"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:lung-shing"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "龍城",
+        "lang:en": "Lung Shing"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:hung-hom-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "紅磡灣",
+        "lang:en": "Hung Hom Bay"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:kai-tak-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "啟德南",
+        "lang:en": "Kai Tak South"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:ma-tau-wai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "馬頭圍",
+        "lang:en": "Ma Tau Wai"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:ho-man-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "何文田",
+        "lang:en": "Ho Man Tin"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:oi-chun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "愛俊",
+        "lang:en": "Oi Chun"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:sung-wong-toi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "宋皇臺",
+        "lang:en": "Sung Wong Toi"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:hoi-sham"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "海心",
+        "lang:en": "Hoi Sham"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:kadoorie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "嘉道理",
+        "lang:en": "Kadoorie"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:to-kwa-wan-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "土瓜灣南",
+        "lang:en": "To Kwa Wan South"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:whampoa-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "黃埔東",
+        "lang:en": "Whampoa East"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:ma-hang-chung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "馬坑涌",
+        "lang:en": "Ma Hang Chung"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q54084665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city/constituency:sheung-lok"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913696"
+      ],
+      "type": {
+        "lang:zh": "九龍城區區議員選區",
+        "lang:en": "Council Constituency of Kowloon City District"
+      },
+      "name": {
+        "lang:zh": "常樂",
+        "lang:en": "Sheung Lok"
+      },
+      "parent_id": "Q986415"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q986415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:kowloon-city"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q986415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54478707"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "九龍城",
+        "lang:en": "Kowloon City"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
     {

@@ -162,7 +162,633 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54083265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:lung-ping-and-sheung-pak-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "龍坪及上白田",
+        "lang:en": "Lung Ping & Sheung Pak Tin"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:nam-cheong-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "南昌東",
+        "lang:en": "Nam Cheong East"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:un-chau-and-so-uk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "元州及蘇屋",
+        "lang:en": "Un Chau & So Uk"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:fu-cheong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "富昌",
+        "lang:en": "Fu Cheong"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:shek-kip-mei"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "石硤尾",
+        "lang:en": "Shek Kip Mei"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:lai-chi-kok-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "荔枝角南",
+        "lang:en": "Lai Chi Kok South"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:nam-cheong-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "南昌西",
+        "lang:en": "Nam Cheong West"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:nam-cheong-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "南昌北",
+        "lang:en": "Nam Cheong North"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:fortune"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "幸福",
+        "lang:en": "Fortune"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:lai-chi-kok-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083449"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "荔枝角北",
+        "lang:en": "Lai Chi Kok North"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:nam-cheong-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "南昌中",
+        "lang:en": "Nam Cheong Central"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:cheung-sha-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "長沙灣",
+        "lang:en": "Cheung Sha Wan"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:ha-pak-tin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "下白田",
+        "lang:en": "Ha Pak Tin"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083537",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:lai-kok"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083537"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "麗閣",
+        "lang:en": "Lai Kok"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:lei-cheng-uk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "李鄭屋",
+        "lang:en": "Lei Cheng Uk"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:lai-chi-kok-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "荔枝角中",
+        "lang:en": "Lai Chi Kok Central"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:mei-foo-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "美孚中",
+        "lang:en": "Mei Foo Central"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:yau-yat-tsuen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "又一村",
+        "lang:en": "Yau Yat Tsuen"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:nam-cheong-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "南昌南",
+        "lang:en": "Nam Cheong South"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:po-lai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "寶麗",
+        "lang:en": "Po Lai"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083663",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:mei-foo-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083663"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "美孚南",
+        "lang:en": "Mei Foo South"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:nam-shan,-tai-hang-tung-and-tai-hang-sai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "南山、大坑東及大坑西",
+        "lang:en": "Nam Shan, Tai Hang Tung & Tai Hang Sai"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q54083704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po/constituency:mei-foo-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54083704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53915061"
+      ],
+      "type": {
+        "lang:zh": "深水埗區區議員選區",
+        "lang:en": "Council Constituency of Sham Shui Po District"
+      },
+      "name": {
+        "lang:zh": "美孚北",
+        "lang:en": "Mei Foo North"
+      },
+      "parent_id": "Q655626"
+    },
+    {
+      "id": "Q655626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sham-shui-po"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q655626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54478982"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "深水埗",
+        "lang:en": "Sham Shui Po"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

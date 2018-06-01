@@ -126,7 +126,733 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q155697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54479009"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "西貢",
+        "lang:en": "Sai Kung"
+      },
+      "parent_id": "Q8646"
+    },
+    {
+      "id": "Q54075076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:wai-king"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "維景",
+        "lang:en": "Wai King"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:yan-ying"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "欣英",
+        "lang:en": "Yan Ying"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075091",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:hang-hau-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075091"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "坑口西",
+        "lang:en": "Hang Hau West"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075093",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:sai-kung-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075093"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "西貢市中心",
+        "lang:en": "Sai Kung Central"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:do-shin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "都善",
+        "lang:en": "Do Shin"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:nam-on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "南安",
+        "lang:en": "Nam On"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075097",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:sai-kung-islands"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075097"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "西貢離島",
+        "lang:en": "Sai Kung Islands"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075103",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:kwan-po"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075103"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "軍寶",
+        "lang:en": "Kwan Po"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:choi-kin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "彩健",
+        "lang:en": "Choi Kin"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:king-lam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "景林",
+        "lang:en": "King Lam"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:tsui-lam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "翠林",
+        "lang:en": "Tsui Lam"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:kin-ming"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "健明",
+        "lang:en": "Kin Ming"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:kwong-ming"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "廣明",
+        "lang:en": "Kwong Ming"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:po-yee"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "寶怡",
+        "lang:en": "Po Yee"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:sheung-tak"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "尚德",
+        "lang:en": "Sheung Tak"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:fu-nam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "富藍",
+        "lang:en": "Fu Nam"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:fu-kwan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "富君",
+        "lang:en": "Fu Kwan"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:hong-king"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "康景",
+        "lang:en": "Hong King"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:po-lam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "寶林",
+        "lang:en": "Po Lam"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:wan-hang"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "運亨",
+        "lang:en": "Wan Hang"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:o-tong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "澳唐",
+        "lang:en": "O Tong"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:wan-po-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "環保北",
+        "lang:en": "Wan Po North"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:pak-sha-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "白沙灣",
+        "lang:en": "Pak Sha Wan"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:wan-po-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "環保南",
+        "lang:en": "Wan Po South"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:hang-hau-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "坑口東",
+        "lang:en": "Hang Hau East"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:hau-tak"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "厚德",
+        "lang:en": "Hau Tak"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q54075268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:sai-kung/constituency:tak-ming"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54075268"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914586"
+      ],
+      "type": {
+        "lang:zh": "西貢區區議員選區",
+        "lang:en": "Council Constituency of Sai Kung District"
+      },
+      "name": {
+        "lang:zh": "德明",
+        "lang:en": "Tak Ming"
+      },
+      "parent_id": "Q155697"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

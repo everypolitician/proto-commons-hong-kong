@@ -146,7 +146,533 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54084794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:chung-ting"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "頌汀",
+        "lang:en": "Chung Ting"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:tai-po-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "大埔中",
+        "lang:en": "Tai Po Central"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:fu-ming-sun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "富明新",
+        "lang:en": "Fu Ming Sun"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:sai-kung-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "西貢北",
+        "lang:en": "Sai Kung North"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:tai-po-kau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "大埔滘",
+        "lang:en": "Tai Po Kau"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:wang-fuk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "宏福",
+        "lang:en": "Wang Fuk"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:san-fu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "新富",
+        "lang:en": "San Fu"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:tai-wo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "太和",
+        "lang:en": "Tai Wo"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:tai-yuen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084871"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "大元",
+        "lang:en": "Tai Yuen"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:wan-tau-tong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "運頭塘",
+        "lang:en": "Wan Tau Tong"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084891",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:tai-po-hui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084891"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "大埔墟",
+        "lang:en": "Tai Po Hui"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084901",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:po-nga"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084901"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "寶雅",
+        "lang:en": "Po Nga"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:lam-tsuen-valley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "林村谷",
+        "lang:en": "Lam Tsuen Valley"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:shuen-wan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "船灣",
+        "lang:en": "Shuen Wan"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:fu-heng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "富亨",
+        "lang:en": "Fu Heng"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:hong-lok-yuen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "康樂園",
+        "lang:en": "Hong Lok Yuen"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:yee-fu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "怡富",
+        "lang:en": "Yee Fu"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:kwong-fuk-and-plover-cove"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "廣福及寶湖",
+        "lang:en": "Kwong Fuk & Plover Cove"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q54084972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po/constituency:old-market-and-serenity"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54084972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914098"
+      ],
+      "type": {
+        "lang:zh": "大埔區區議員選區",
+        "lang:en": "Council Constituency of Tai Po District"
+      },
+      "name": {
+        "lang:zh": "舊墟及太湖",
+        "lang:en": "Old Market & Serenity"
+      },
+      "parent_id": "Q877813"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q877813",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:tai-po"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q877813"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54479094"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "大埔",
+        "lang:en": "Tai Po"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
     {

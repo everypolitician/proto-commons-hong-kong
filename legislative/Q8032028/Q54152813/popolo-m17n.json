@@ -145,7 +145,683 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q54076438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:choi-wan-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "彩雲南",
+        "lang:en": "Choi Wan South"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076455",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:san-po-kong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076455"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "新蒲崗",
+        "lang:en": "San Po Kong"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:lung-sheung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "龍上",
+        "lang:en": "Lung Sheung"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:chi-choi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "池彩",
+        "lang:en": "Chi Choi"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:choi-wan-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "彩雲西",
+        "lang:en": "Choi Wan West"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076522",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:chuk-yuen-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076522"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "竹園北",
+        "lang:en": "Chuk Yuen North"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:lung-sing"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "龍星",
+        "lang:en": "Lung Sing"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076550",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:king-fu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076550"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "瓊富",
+        "lang:en": "King Fu"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:tung-tau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "東頭",
+        "lang:en": "Tung Tau"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:ching-oi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "正愛",
+        "lang:en": "Ching Oi"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:wang-tau-hom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "橫頭磡",
+        "lang:en": "Wang Tau Hom"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:lung-ha"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "龍下",
+        "lang:en": "Lung Ha"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:tsz-wan-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "慈雲西",
+        "lang:en": "Tsz Wan West"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076673",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:tsui-chuk-and-pang-ching"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076673"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "翠竹及鵬程",
+        "lang:en": "Tsui Chuk & Pang Ching"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:tung-mei"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "東美",
+        "lang:en": "Tung Mei"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076713",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:tsz-wan-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076713"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "慈雲東",
+        "lang:en": "Tsz Wan East"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:choi-hung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "彩虹",
+        "lang:en": "Choi Hung"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:fung-tak"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "鳳德",
+        "lang:en": "Fung Tak"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:lung-tsui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "龍趣",
+        "lang:en": "Lung Tsui"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:tin-keung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076787"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "天強",
+        "lang:en": "Tin Keung"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:choi-wan-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "彩雲東",
+        "lang:en": "Choi Wan East"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:lok-fu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "樂富",
+        "lang:en": "Lok Fu"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076839",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:fung-wong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076839"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "鳳凰",
+        "lang:en": "Fung Wong"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:ching-on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "正安",
+        "lang:en": "Ching On"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q54076875",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin/constituency:chuk-yuen-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54076875"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53913812"
+      ],
+      "type": {
+        "lang:zh": "黃大仙區區議員選區",
+        "lang:en": "Council Constituency of Wong Tai Sin District"
+      },
+      "name": {
+        "lang:zh": "竹園南",
+        "lang:en": "Chuk Yuen South"
+      },
+      "parent_id": "Q878503"
+    },
+    {
+      "id": "Q8646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2741486"
+      ],
+      "type": {
+        "lang:zh-hk": "特別行政區",
+        "lang:zh": "特别行政区",
+        "lang:en": "special administrative region of China"
+      },
+      "name": {
+        "lang:zh": "中華人民共和國香港特別行政區",
+        "lang:en": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q878503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:wong-tai-sin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q878503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54478811"
+      ],
+      "type": {
+        "lang:zh-hk": "香港政區",
+        "lang:zh": "香港政區",
+        "lang:en": "district of Hong Kong"
+      },
+      "name": {
+        "lang:zh": "黃大仙",
+        "lang:en": "Wong Tai Sin"
+      },
+      "parent_id": "Q8646"
+    }
   ],
   "memberships": [
     {
