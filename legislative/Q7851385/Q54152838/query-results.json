@@ -1,0 +1,541 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_zh_hk", "name_zh", "name_en", "party", "party_name_zh_hk", "party_name_zh", "party_name_en", "district", "district_name_zh_hk", "district_name_zh", "district_name_en", "role", "role_zh_hk", "role_zh", "role_en", "role_superclass", "role_superclass_zh_hk", "role_superclass_zh", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_hk", "org_zh", "org_en", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54084468"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Siu Tsui, Tuen Mun District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區兆翠區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q28414259-584D6044-C94B-4E3B-BCD2-15CC1618E049"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914946"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuen Mun District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28414259"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yip Man-pan"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "葉文斌"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7851385"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuen Mun District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986383"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "TerryYipTuenMun"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54084471"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Siu Hei, Tuen Mun District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區兆禧區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47670072-170C4545-71F4-4E07-81E6-472BD9E9C383"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914946"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuen Mun District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47670072"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yan Siu-nam"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "甄紹南"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7851385"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuen Mun District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986383"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100004772850064"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q837695"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Association for Democracy and People's Livelihood"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "香港民主民生協進會"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "香港民主民生協進會"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54084482"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Butterfly, Tuen Mun District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區蝴蝶區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q54364535-A516849E-416D-47A4-96CD-BFB87ACA8695"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914946"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuen Mun District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54364535"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yeung Chi-hang"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "楊智恒"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7851385"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuen Mun District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986383"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q837695"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Association for Democracy and People's Livelihood"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "香港民主民生協進會"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "香港民主民生協進會"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54084489"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in San King, Tuen Mun District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區新景區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q54364814-D46E098E-DA83-4B10-9509-E67F08913833"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914946"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuen Mun District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54364814"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wong Lai-sheung"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃麗嫦"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7851385"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuen Mun District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986383"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21892"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主黨"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "民主黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54084473"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Hing Tsak, Tuen Mun District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區興澤區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q54364904-3B8BA8C5-D6E1-497E-B704-9653F36D4A34"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914946"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuen Mun District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54364904"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tsui Fan"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "徐帆"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7851385"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuen Mun District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屯門區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986383"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "fan.tsui.969"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23062"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hong Kong Federation of Trade Unions"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "香港工會聯合會"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "香港工會聯合會"
+      }
+    } ]
+  }
+}

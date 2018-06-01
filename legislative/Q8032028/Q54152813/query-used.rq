@@ -7,8 +7,8 @@ SELECT ?statement
        ?start ?end ?facebook
        ?org ?org_zh_hk ?org_zh ?org_en ?org_jurisdiction ?org_seat_count
 WHERE {
-  BIND(wd:Q27908372 as ?role) .
-  BIND(wd:Q19208 as ?org) .
+  BIND(wd:Q53913812 as ?role) .
+  BIND(wd:Q8032028 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_zh_hk
   FILTER(LANG(?org_zh_hk) = "zh-hk")
@@ -81,7 +81,7 @@ OPTIONAL {
 }
 
   }
-  ?statement pq:P2937 wd:Q26807788 .
+  ?statement pq:P2937 wd:Q54152813 .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {

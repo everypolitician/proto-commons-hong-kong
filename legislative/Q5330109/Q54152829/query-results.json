@@ -1,0 +1,507 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_zh_hk", "name_zh", "name_en", "party", "party_name_zh_hk", "party_name_zh", "party_name_en", "district", "district_name_zh_hk", "district_name_zh", "district_name_en", "role", "role_zh_hk", "role_zh", "role_en", "role_superclass", "role_superclass_zh_hk", "role_superclass_zh", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_hk", "org_zh", "org_en", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54086191"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Tai Koo Shing East, Eastern District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區太古城東區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q30942175-4558F578-5E39-4B32-95AF-9851A03863FD"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914229"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30942175"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wong Chun Sing Patrick"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王振星"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5330109"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q727054"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "taikoostar"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54085820"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Lei King Wan, Eastern District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區鯉景灣區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47545993-E95E9EC3-0BD7-4F6E-AB10-D1D449E7A1C7"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914229"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47545993"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yeung Sze-chun"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "楊斯竣"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5330109"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q727054"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "楊斯竣-Bill-Yeung-東區區議員-789933261111329"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54086036"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Yan Lam, Eastern District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區欣藍區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q54356549-2713EE87-69CB-44C9-9003-91273873C453"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914229"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54356549"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wong Kin-hing"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃健興"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5330109"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q727054"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54086146"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Lower Yiu Tung, Eastern District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區下耀東區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q54356593-F7CF62C2-C24F-4153-B7F6-1DA96A89464A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914229"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54356593"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wong Chi-chung"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王志鍾"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5330109"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q727054"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "wongchichung.page"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21916"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主建港協進聯盟"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "民主建港協進聯盟"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54086198"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Siu Sai Wan, Eastern District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區小西灣區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8032000-AA502247-C4F6-4367-BE0A-4EFAF1F72DE5"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914229"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8032000"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wong Kwok-hing"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王國興"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5330109"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "東區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q727054"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "wongkh2012"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23062"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hong Kong Federation of Trade Unions"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "香港工會聯合會"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "香港工會聯合會"
+      }
+    } ]
+  }
+}

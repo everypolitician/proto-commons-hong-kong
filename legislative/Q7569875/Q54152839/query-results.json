@@ -1,0 +1,531 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_zh_hk", "name_zh", "name_en", "party", "party_name_zh_hk", "party_name_zh", "party_name_en", "district", "district_name_zh_hk", "district_name_zh", "district_name_en", "role", "role_zh_hk", "role_zh", "role_en", "role_superclass", "role_superclass_zh_hk", "role_superclass_zh", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_hk", "org_zh", "org_en", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54084672"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Aberdeen, Southern District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區香港仔區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q10884751-DC66AE74-44B5-4207-9970-165F25C48430"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914186"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10884751"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pauline Yam"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "任葆琳"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7569875"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986431"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "17"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100013847927410"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54084702"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Lei Tung II, Southern District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區利東二區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15635911-0C758542-231B-4D32-85B9-7F8B7FC4A1AF"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914186"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15635911"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lo Kin-hei"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "羅健熙"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7569875"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986431"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "17"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "dphk.leitung"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21892"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主黨"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "民主黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54084773"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Pokfulam, Southern District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區薄扶林區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18228462-7332D1E6-0CF5-4961-8F3E-B30800A86949"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914186"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18228462"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paul Zimmerman"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "司馬文"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7569875"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986431"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "17"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "PZpage"
+      },
+      "name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "司馬文"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54084759"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Wah Kwai, Southern District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區華貴區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q23888291-1B3FC8CA-10A6-4524-B3F8-B2CD4C00DA74"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914186"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23888291"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mak Tse How-ling"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "麥謝巧玲"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7569875"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986431"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "17"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "adamaktsehowling"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21916"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主建港協進聯盟"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "民主建港協進聯盟"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54084685"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "District Councils Constituency in Wong Chuk Hang, Southern District"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區黃竹坑區議員選區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q54356699-6CE07E9F-8FBC-447D-8A38-D06F7EC4A7FA"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53914186"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern District councilor"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54356699"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tsui Yuen-wa"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "徐遠華"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7569875"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern District Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南區議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986431"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "17"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21892"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主黨"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "民主黨"
+      }
+    } ]
+  }
+}
