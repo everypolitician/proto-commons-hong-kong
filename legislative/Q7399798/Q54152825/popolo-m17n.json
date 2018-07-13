@@ -18,22 +18,6 @@
     },
     {
       "name": {
-        "lang:zh": "王水生",
-        "lang:en": "Wong Shui-sang"
-      },
-      "id": "Q54362667",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q54362667"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:zh": "温悅昌",
         "lang:en": "Wan Yuet-cheung"
       },
@@ -861,23 +845,6 @@
       "on_behalf_of_id": "Q21916",
       "organization_id": "Q7399798",
       "area_id": "Q54075091",
-      "start_date": "2016-01-01",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:zh": "地方議會議員",
-        "lang:en": "councillor"
-      },
-      "role_code": "Q53914586",
-      "role": {
-        "lang:zh": "西貢區議員",
-        "lang:en": "Sai Kung District councilor"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q54362667-373677C1-D3AA-45A8-83CF-D134C0B11FC3",
-      "person_id": "Q54362667",
-      "organization_id": "Q7399798",
-      "area_id": "Q54075094",
       "start_date": "2016-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {

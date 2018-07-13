@@ -1,5 +1,1 @@
-WARNING: the district 離島區當然議員 (Q54082491) wasn't found in the boundary data for position 離島區議員 (Q53914994)
-WARNING: the district 離島區當然議員 (Q54082491) wasn't found in the boundary data for position 離島區議員 (Q53914994)
-WARNING: the district 離島區當然議員 (Q54082491) wasn't found in the boundary data for position 離島區議員 (Q53914994)
-WARNING: the district 葵青區當然議員 (Q54084352) wasn't found in the boundary data for position 葵青區議員 (Q53914373)
-WARNING: the district 西貢區當然議員 (Q54075094) wasn't found in the boundary data for position 西貢區議員 (Q53914586)
+WARNING: the district 薄扶林 (選區) (Q7208637) wasn't found in the boundary data for position 南區區議員 (Q53914186)
