@@ -4,95 +4,29 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54082491"
+        "value" : "http://www.wikidata.org/entity/Q21916"
       },
-      "district_name_en" : {
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ex Officio Member in Islands District"
+        "value" : "Democratic Alliance for the Betterment and Progress of Hong Kong"
       },
-      "district_name_zh" : {
+      "party_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "離島區當然議員"
+        "value" : "民主建港協進聯盟"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "民主建港協進聯盟"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q54360500-BDF4B83B-E387-40BD-94C4-052C590A4821"
+        "value" : "http://www.wikidata.org/entity/statement/Q54360644-A6E773D9-E407-4E15-95B2-5C694C7CEE2C"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53914994"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Islands District councilor"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "離島區議員"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54360500"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yung Chi-ming"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "翁志明"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6083714"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Islands District Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "離島區議會"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q752523"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "18"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-01-01T00:00:00Z"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q54082434"
@@ -106,10 +40,6 @@
         "xml:lang" : "zh",
         "type" : "literal",
         "value" : "離島區南丫及蒲台區議員選區"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q54360644-A6E773D9-E407-4E15-95B2-5C694C7CEE2C"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -181,208 +111,34 @@
         "type" : "literal",
         "value" : "2016-01-01T00:00:00Z"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21916"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Alliance for the Betterment and Progress of Hong Kong"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主建港協進聯盟"
-      },
-      "party_name_zh_hk" : {
-        "xml:lang" : "zh-hk",
-        "type" : "literal",
-        "value" : "民主建港協進聯盟"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "yu.laifan"
       }
     }, {
-      "district" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54082491"
+        "value" : "http://www.wikidata.org/entity/Q23055"
       },
-      "district_name_en" : {
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ex Officio Member in Islands District"
+        "value" : "Civic Party"
       },
-      "district_name_zh" : {
+      "party_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "離島區當然議員"
+        "value" : "公民黨"
+      },
+      "party_name_zh_hk" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "公民黨"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q54360905-2C7A3CED-B867-4703-8FE7-2F4B612DC47C"
+        "value" : "http://www.wikidata.org/entity/statement/Q7930007-1DB83D51-4F32-4A97-92B2-0B5418020DC2"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53914994"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Islands District councilor"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "離島區議員"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54360905"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Wong Man-hon"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃文漢"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6083714"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Islands District Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "離島區議會"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q752523"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "18"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-01-01T00:00:00Z"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54082491"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ex Officio Member in Islands District"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "離島區當然議員"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q54360930-8107FF61-0E24-4DBB-8F9E-0BC64E423FF8"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53914994"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Islands District councilor"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "離島區議員"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54360930"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Wong Hon-kuen"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃漢權"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6083714"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Islands District Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "離島區議會"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q752523"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "18"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-01-01T00:00:00Z"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q54082389"
@@ -396,10 +152,6 @@
         "xml:lang" : "zh",
         "type" : "literal",
         "value" : "離島區愉景灣區議員選區"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7930007-1DB83D51-4F32-4A97-92B2-0B5418020DC2"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -470,25 +222,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-01-01T00:00:00Z"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23055"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Civic Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "公民黨"
-      },
-      "party_name_zh_hk" : {
-        "xml:lang" : "zh-hk",
-        "type" : "literal",
-        "value" : "公民黨"
       }
     } ]
   }

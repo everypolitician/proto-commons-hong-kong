@@ -76,7 +76,7 @@
       "org_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "東區議會"
+        "value" : "東區區議會"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -169,7 +169,7 @@
       "org_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "東區議會"
+        "value" : "東區區議會"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -262,7 +262,7 @@
       "org_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "東區議會"
+        "value" : "東區區議會"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -351,7 +351,7 @@
       "org_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "東區議會"
+        "value" : "東區區議會"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -463,7 +463,7 @@
       "org_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "東區議會"
+        "value" : "東區區議會"
       },
       "org_jurisdiction" : {
         "type" : "uri",
