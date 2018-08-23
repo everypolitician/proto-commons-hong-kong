@@ -48,7 +48,7 @@
       "role_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "南區議員"
+        "value" : "南區區議員"
       },
       "item" : {
         "type" : "uri",
@@ -141,7 +141,7 @@
       "role_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "南區議員"
+        "value" : "南區區議員"
       },
       "item" : {
         "type" : "uri",
@@ -211,17 +211,17 @@
     }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54084773"
+        "value" : "http://www.wikidata.org/entity/Q7208637"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "District Councils Constituency in Pokfulam, Southern District"
+        "value" : "Pokfulam"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "南區薄扶林區議員選區"
+        "value" : "薄扶林 (選區)"
       },
       "statement" : {
         "type" : "uri",
@@ -253,7 +253,7 @@
       "role_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "南區議員"
+        "value" : "南區區議員"
       },
       "item" : {
         "type" : "uri",
@@ -295,7 +295,7 @@
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2016-01-01T00:00:00Z"
+        "value" : "2010-09-06T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -351,7 +351,7 @@
       "role_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "南區議員"
+        "value" : "南區區議員"
       },
       "item" : {
         "type" : "uri",
@@ -463,7 +463,7 @@
       "role_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "南區議員"
+        "value" : "南區區議員"
       },
       "item" : {
         "type" : "uri",
