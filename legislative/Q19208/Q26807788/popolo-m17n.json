@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:zh": "尹兆堅",
+        "lang:en": "Andrew Wan"
+      },
+      "id": "Q11040220",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11040220"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-hk": "李慧琼",
         "lang:zh": "李慧琼",
         "lang:en": "Starry Lee"
@@ -17,6 +33,57 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/LeeWaiKingStarry"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/LeeWaiKingStarry"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-hk": "周浩鼎",
+        "lang:zh": "周浩鼎",
+        "lang:en": "Holden Chow"
+      },
+      "id": "Q15940901",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15940901"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chowhoding"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chowhoding"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh": "鄭松泰",
+        "lang:en": "Cheng Chung-tai"
+      },
+      "id": "Q19853850",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19853850"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chengchungtai"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chengchungtai"
         }
       ]
     },
@@ -51,6 +118,10 @@
         }
       ],
       "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ToKunSun"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/ToKunSun"
@@ -90,6 +161,10 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/chuhoidick"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chuhoidick"
         }
       ]
     },
@@ -106,6 +181,10 @@
         }
       ],
       "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/nokhinau"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/nokhinau"
@@ -131,6 +210,25 @@
       "area_id": "Q8646",
       "seat_counts": {
         "Q27908372": "70"
+      }
+    },
+    {
+      "name": {
+        "lang:zh-hk": "香港立法會",
+        "lang:zh": "香港立法會",
+        "lang:en": "Legislative Council of Hong Kong"
+      },
+      "id": "Q19208",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19208"
+        }
+      ],
+      "area_id": "Q8646",
+      "seat_counts": {
+        "Q27908372": "60"
       }
     },
     {
@@ -1123,11 +1221,68 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q11040220-12ef3d0f-4aba-bc7a-1c49-d7d2fd1b215a",
+      "person_id": "Q11040220",
+      "organization_id": "Q19208",
+      "area_id": "Q1099862",
+      "start_date": "2016-10-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:zh-hk": "立法會議成員",
+        "lang:zh": "立法議會議員",
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q27908372",
+      "role": {
+        "lang:zh-hk": "立法會議員",
+        "lang:zh": "香港立法會議員",
+        "lang:en": "member of the Legislative Council of Hong Kong"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1548856-9b320169-4376-ee69-411c-4beb34abd21d",
       "person_id": "Q1548856",
       "on_behalf_of_id": "Q21916",
       "organization_id": "Q19208",
       "area_id": "Q5283291",
+      "start_date": "2016-10-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:zh-hk": "立法會議成員",
+        "lang:zh": "立法議會議員",
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q27908372",
+      "role": {
+        "lang:zh-hk": "立法會議員",
+        "lang:zh": "香港立法會議員",
+        "lang:en": "member of the Legislative Council of Hong Kong"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15940901-5c2e3024-484b-a9b9-b26a-596ddf0fe252",
+      "person_id": "Q15940901",
+      "organization_id": "Q19208",
+      "area_id": "Q5283291",
+      "start_date": "2016-10-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:zh-hk": "立法會議成員",
+        "lang:zh": "立法議會議員",
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q27908372",
+      "role": {
+        "lang:zh-hk": "立法會議員",
+        "lang:zh": "香港立法會議員",
+        "lang:en": "member of the Legislative Council of Hong Kong"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19853850-5f1f9be2-45c5-d31c-6628-f97eb324d717",
+      "person_id": "Q19853850",
+      "organization_id": "Q19208",
+      "area_id": "Q1099862",
       "start_date": "2016-10-01",
       "role_superclass_code": "Q5230427",
       "role_superclass": {

@@ -94,11 +94,6 @@
       "person_id": "Q54542064",
       "organization_id": "Q54553015",
       "area_id": "Q727054",
-      "role_superclass_code": "Q54479070",
-      "role_superclass": {
-        "lang:zh": "東區民政事務專員",
-        "lang:en": "district officer of Eastern District"
-      },
       "role_code": "Q54479070",
       "role": {
         "lang:zh": "東區民政事務專員",

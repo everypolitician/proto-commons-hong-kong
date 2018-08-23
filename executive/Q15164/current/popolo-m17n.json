@@ -74,11 +74,11 @@
       "organization_id": "Q15164",
       "area_id": "Q8646",
       "start_date": "2017-07-01",
-      "role_superclass_code": "Q2741486",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
-        "lang:zh-hk": "香港特別行政區行政長官",
-        "lang:zh": "香港特別行政區行政長官",
-        "lang:en": "Chief Executive of Hong Kong"
+        "lang:zh-hk": "政府首腦",
+        "lang:zh": "政府首脑",
+        "lang:en": "head of government"
       },
       "role_code": "Q2741486",
       "role": {

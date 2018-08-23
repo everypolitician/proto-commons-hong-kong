@@ -496,31 +496,6 @@
       "parent_id": "Q986431"
     },
     {
-      "id": "Q54084773",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:hk/district:southern/constituency:pokfulam"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q54084773"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q53914186"
-      ],
-      "type": {
-        "lang:zh": "南區區議員選區",
-        "lang:en": "Council Constituency of Southern District"
-      },
-      "name": {
-        "lang:zh": "薄扶林",
-        "lang:en": "Pokfulam"
-      },
-      "parent_id": "Q986431"
-    },
-    {
       "id": "Q54084779",
       "identifiers": [
         {
@@ -567,6 +542,31 @@
       "name": {
         "lang:zh": "利東一",
         "lang:en": "Lei Tung I"
+      },
+      "parent_id": "Q986431"
+    },
+    {
+      "id": "Q7208637",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:hk/district:southern/constituency:pokfulam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7208637"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53914186"
+      ],
+      "type": {
+        "lang:zh": "南區區議員選區",
+        "lang:en": "Council Constituency of Southern District"
+      },
+      "name": {
+        "lang:zh": "薄扶林",
+        "lang:en": "Pokfulam"
       },
       "parent_id": "Q986431"
     },
@@ -637,7 +637,7 @@
       },
       "role_code": "Q53914186",
       "role": {
-        "lang:zh": "南區議員",
+        "lang:zh": "南區區議員",
         "lang:en": "Southern District councilor"
       }
     },
@@ -655,7 +655,7 @@
       },
       "role_code": "Q53914186",
       "role": {
-        "lang:zh": "南區議員",
+        "lang:zh": "南區區議員",
         "lang:en": "Southern District councilor"
       }
     },
@@ -663,8 +663,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q18228462-7332D1E6-0CF5-4961-8F3E-B30800A86949",
       "person_id": "Q18228462",
       "organization_id": "Q7569875",
-      "area_id": "Q54084773",
-      "start_date": "2016-01-01",
+      "area_id": "Q7208637",
+      "start_date": "2010-09-06",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh": "地方議會議員",
@@ -672,7 +672,7 @@
       },
       "role_code": "Q53914186",
       "role": {
-        "lang:zh": "南區議員",
+        "lang:zh": "南區區議員",
         "lang:en": "Southern District councilor"
       }
     },
@@ -690,7 +690,7 @@
       },
       "role_code": "Q53914186",
       "role": {
-        "lang:zh": "南區議員",
+        "lang:zh": "南區區議員",
         "lang:en": "Southern District councilor"
       }
     },
@@ -708,7 +708,7 @@
       },
       "role_code": "Q53914186",
       "role": {
-        "lang:zh": "南區議員",
+        "lang:zh": "南區區議員",
         "lang:en": "Southern District councilor"
       }
     }

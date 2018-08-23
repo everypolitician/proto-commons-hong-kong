@@ -94,11 +94,6 @@
       "person_id": "Q54541898",
       "organization_id": "Q54553011",
       "area_id": "Q312485",
-      "role_superclass_code": "Q54478776",
-      "role_superclass": {
-        "lang:zh": "中西區民政事務專員",
-        "lang:en": "district officer of Central and Western District"
-      },
       "role_code": "Q54478776",
       "role": {
         "lang:zh": "中西區民政事務專員",

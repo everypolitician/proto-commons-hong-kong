@@ -69,22 +69,6 @@
       "links": [
 
       ]
-    },
-    {
-      "name": {
-        "lang:zh": "鄧瑞華",
-        "lang:en": "Tang Shui-wah"
-      },
-      "id": "Q54361477",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q54361477"
-        }
-      ],
-      "links": [
-
-      ]
     }
   ],
   "organizations": [
@@ -990,23 +974,6 @@
       "on_behalf_of_id": "Q21892",
       "organization_id": "Q6449990",
       "area_id": "Q54084438",
-      "start_date": "2016-01-01",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:zh": "地方議會議員",
-        "lang:en": "councillor"
-      },
-      "role_code": "Q53914373",
-      "role": {
-        "lang:zh": "葵青區議員",
-        "lang:en": "Kwai Tsing District councilor"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q54361477-BB400645-FCC9-415A-B34E-E12CA4DA3ADB",
-      "person_id": "Q54361477",
-      "organization_id": "Q6449990",
-      "area_id": "Q54084352",
       "start_date": "2016-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {

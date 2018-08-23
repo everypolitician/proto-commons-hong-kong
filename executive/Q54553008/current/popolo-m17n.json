@@ -94,11 +94,6 @@
       "person_id": "Q54542000",
       "organization_id": "Q54553008",
       "area_id": "Q15019",
-      "role_superclass_code": "Q54478911",
-      "role_superclass": {
-        "lang:zh": "沙田區民政事務專員",
-        "lang:en": "district officer of Sha Tin District"
-      },
       "role_code": "Q54478911",
       "role": {
         "lang:zh": "沙田區民政事務專員",

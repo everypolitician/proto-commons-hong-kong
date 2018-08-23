@@ -443,7 +443,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q54360500-BDF4B83B-E387-40BD-94C4-052C590A4821",
       "person_id": "Q54360500",
       "organization_id": "Q6083714",
-      "area_id": "Q54082491",
       "start_date": "2016-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
@@ -478,7 +477,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q54360905-2C7A3CED-B867-4703-8FE7-2F4B612DC47C",
       "person_id": "Q54360905",
       "organization_id": "Q6083714",
-      "area_id": "Q54082491",
       "start_date": "2016-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
@@ -495,7 +493,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q54360930-8107FF61-0E24-4DBB-8F9E-0BC64E423FF8",
       "person_id": "Q54360930",
       "organization_id": "Q6083714",
-      "area_id": "Q54082491",
       "start_date": "2016-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
